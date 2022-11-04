@@ -133,7 +133,7 @@
 	
 	function check(quiz) {
 		var wrong = 0;
-		var ret = "";
+		var ret = "<i>Mmmm...</i></br>";
 		
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = "...";
 		//debugger;
@@ -145,15 +145,12 @@
 			}
 		};
 		if (wrong == 0) {
-			ret = "Congratulation! Correct all!";
+			ret = "<i>Congratulation! Correct all!</i>";
 		}
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = ret;
 	}
 	
 	function choose(quiz, q, a) {
-		<!-- console.log(quiz); -->
-		<!-- console.log(q); -->
-		<!-- console.log(a); -->
 		_results[quiz][q] = a;
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = "...";
 	}
@@ -176,7 +173,7 @@
 			txt += "<tr><h2>Fill in the gaps with the appropriate expressions:</h2></tr>";
 			txt += "<td><ol>";
 			for (j = 0; j < aLen; j++) {
-				txt += "<li>" + a[i].getElementsByTagName("a")[j].childNodes[0].nodeValue + "</li>";
+				txt += "<li><b>" + a[i].getElementsByTagName("a")[j].childNodes[0].nodeValue + "</b></li>";
             }
 			txt += "</ol></td>";
 			
