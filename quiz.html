@@ -139,11 +139,11 @@
 		//debugger;
 		for (i = 0; i < 20; i++) {
 			if (_results[quiz][i] != _answers[quiz][i]) {
-				ret += String.fromCharCode(65 + i) + " (correct is : " + (_answers[quiz][i] + 1).toString() + ")</br>";
+				ret += String.fromCharCode(65 + i) + " (correct is : " + (Number(_answers[quiz][i]) + 1 ).toString() + ")</br>";
 				wrong++;
 				console.log(i);
 			}
-		};		
+		};
 		if (wrong == 0) {
 			ret = "Congratulation! Correct all!";
 		}
