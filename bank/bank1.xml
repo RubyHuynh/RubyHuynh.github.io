@@ -2,29 +2,29 @@
 <bank>
 	<quiz_1>
 		<list>
-			<item id=1> in retrospect </item>
-			<item id=2> go easy on someone </item>
-			<item id=3> a thing of the past </item>
-			<item id=4> go easy on (something) </item>
-			<item id=5> run short of </item>
-			<item id=6> hold a grudge </item>
-			<item id=7> push it </item>
-			<item id=8> unless </item>
-			<item id=9> watch one’s words </item>
-			<item id=10> end up </item>
+			<item id="1"> in retrospect </item>
+			<item id="2"> go easy on someone </item>
+			<item id="3"> a thing of the past </item>
+			<item id="4"> go easy on (something) </item>
+			<item id="5"> run short of </item>
+			<item id="6"> hold a grudge </item>
+			<item id="7"> push it </item>
+			<item id="8"> unless </item>
+			<item id="9"> watch one’s words </item>
+			<item id="10"> end up </item>
 		</list>
 		<items>
-			<item id=7>I promise to think over your proposal, but don't ……………..</item>
-			<item id=10>If he carries on driving like that, he'll …………. Dead.</item>
-			<item id=1>…………….., the old man wished he had traveled more during his younger
+			<item id="7">I promise to think over your proposal, but don't ……………..</item>
+			<item id="10">If he carries on driving like that, he'll …………. Dead.</item>
+			<item id="1">…………….., the old man wished he had traveled more during his younger
 days.</item>
-			<item id=5>Their bodies may …………….. calcium and magnesium.</item>
-			<item id=6>Jane still ……………….. against me for refusing to lend her some money.</item>
-			<item id=9>…………………… otherwise you might get into trouble!</item>
-			<item id=8>I won't pay …………. you provide the goods immediately.</item>
-			<item id=4>The doctor told me to ……………… the spicy food for a while</item>
-			<item id=2>………………. Bill. He’s still too young to manage that on his own.</item>
-			<item id=3>Those stores are ……………—their parent company filed bankruptcy a few
+			<item id="5">Their bodies may …………….. calcium and magnesium.</item>
+			<item id="6">Jane still ……………….. against me for refusing to lend her some money.</item>
+			<item id="9">…………………… otherwise you might get into trouble!</item>
+			<item id="8">I won't pay …………. you provide the goods immediately.</item>
+			<item id="4">The doctor told me to ……………… the spicy food for a while</item>
+			<item id="2">………………. Bill. He’s still too young to manage that on his own.</item>
+			<item id="3">Those stores are ……………—their parent company filed bankruptcy a few
 years ago</item>
 		</items>
 	</quiz_1>
