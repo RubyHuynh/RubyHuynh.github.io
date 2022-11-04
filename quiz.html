@@ -59,8 +59,6 @@
 	</head>
 	<body>
 		
-		<div class="fh5co-loader"></div>
-
 		<div id="page">
 		<nav class="fh5co-nav" role="navigation">
 			<div class="top-menu">
@@ -141,7 +139,7 @@
 		//debugger;
 		for (i = 0; i < 20; i++) {
 			if (_results[quiz][i] != _answers[quiz][i]) {
-				ret += String.fromCharCode(65 + i) + " (correct is : " + _answers[quiz][i].toString() + ")</br>";
+				ret += String.fromCharCode(65 + i) + " (correct is : " + (_answers[quiz][i] + 1).toString() + ")</br>";
 				wrong++;
 				console.log(i);
 			}
