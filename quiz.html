@@ -58,7 +58,8 @@
 
 	</head>
 	<body>
-		<p id="demo"></p>
+		<div id='_list'></div>
+		<select id='ddl'></select>
 	</body> 
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
@@ -77,23 +78,99 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
-	<script>
-		var xhttp = new XMLHttpRequest();
-		xhttp.onreadystatechange = function() {
+	
+<script>
+	lalala(0);
+	var _answers = new Array(100);
+	var _results = new Array(100);
+	
+
+
+	function lalala(i) {
+		var xmlhttp = new XMLHttpRequest();
+		xmlhttp.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
-				myFunction(this);
+				myFunction(this, i);
 			}
 		};
-		xhttp.open("GET", "https://rubyhuynh.github.io/bank/bank1.xml", true);
-		xhttp.send();
+		xmlhttp.open("GET", "https://rubyhuynh.github.io/bank/bank1.xml", true);
+		xmlhttp.send();
+	}
+	
+	function check(quiz) {
+		var wrong = 0;
+		var ret = "";
 		
-		function myFunction(xml) {
-			var xmlDoc = xml.responseXML;
-			document.getElementById("demo").innerHTML =
-			xmlDoc.getElementsByTagName("list")[0].childNodes[0].nodeValue;
+		document.getElementById("aaa_" + quiz.toString()).innerHTML = "...";
+		//debugger;
+		for (i = 0; i < 20; i++) {
+			if (_results[quiz][i] != _answers[quiz][i]) {
+				ret += String.fromCharCode(65 + i) + " (correct is : " + _answers[quiz][i].toString() + ")</br>";
+				wrong++;
+				console.log(i);
+			}
+		};		
+		if (wrong == 0) {
+			ret = "Congratulation! Correct all!";
 		}
-	</script>
+		document.getElementById("aaa_" + quiz.toString()).innerHTML = ret;
+	}
+	
+	function choose(quiz, q, a) {
+		<!-- console.log(quiz); -->
+		<!-- console.log(q); -->
+		<!-- console.log(a); -->
+		_results[quiz][q] = a;
+		document.getElementById("aaa_" + quiz.toString()).innerHTML = "...";
+	}
+
+	function myFunction(xml, i) {
+		var xmlDoc = xml.responseXML; 
+		txt = "";
+		x = xmlDoc.getElementsByTagName("quiz");
+		a = xmlDoc.getElementsByTagName("answers");
+		q = xmlDoc.getElementsByTagName("questions");
+		xLen = x.length;
+		for (i = 0; i < xLen; i++) {			
+			var answers = a[i];
+			aLen = a[i].getElementsByTagName("a").length;
+			_results[i] = new Array(20);
+			_answers[i] = new Array(20);
+			
+			txt += "<h1>QUIZ " + i.toString() + "</h1>";
+			txt += "<table>";
+			txt += "<tr><h2>Fill in the gaps with the appropriate expressions:</h2></tr>";
+			txt += "<td><ol>";
+			for (j = 0; j < aLen; j++) {
+				txt += "<li>" + a[i].getElementsByTagName("a")[j].childNodes[0].nodeValue + "</li>";
+            }
+			txt += "</ol></td>";
+			
+			txt += "<td><ol type='a'>"
+			for (j = 0; j < aLen; j++) {
+				txt += "<li>" + q[i].getElementsByTagName("q")[j].childNodes[0].nodeValue + "</li>";
+				txt += "<select id='qqq_" + j.toString() + "' onchange='choose("+ i.toString() + ", " + j.toString() + ",this.value)';>";
+				txt += "<option disabled selected value> -- select an option -- </option>";
+				for (k = 0; k < aLen; k++) {
+					txt += "<option value='"+ k.toString() +"'>";
+					txt += a[i].getElementsByTagName("a")[k].childNodes[0].nodeValue;
+					txt += "</option>";
+				}
+				txt +="</select>";
+				<!-- console.log(q[i].getElementsByTagName("q")[j].getAttribute('id')); -->
+				_answers[i][j] = q[i].getElementsByTagName("q")[j].getAttribute('id');
+			}
+			txt += "</ol></td>";
+			txt += "<td><div id='aaa_" + i.toString() + "'></div></td>";
+			txt += "</table>";
+			txt += "<center><input type='button' name='submit' value='SUBMIT' onclick='check("+i.toString()+");' /></center>";
+
+		}
 		
+		document.getElementById("_list").innerHTML = txt;
+	}
+	</script>
+	
 	</body>
 </html>
 

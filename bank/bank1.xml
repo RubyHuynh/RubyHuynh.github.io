@@ -2,29 +2,29 @@
 <bank>
 	<quiz>
 		<answers>
-			<a id="1"> in retrospect </a>
-			<a id="2"> go easy on someone </a>
-			<a id="3"> a thing of the past </a>
-			<a id="4"> go easy on (something) </a>
-			<a id="5"> run short of </a>
-			<a id="6"> hold a grudge </a>
-			<a id="7"> push it </a>
-			<a id="8"> unless </a>
-			<a id="9"> watch one’s words </a>
-			<a id="10"> end up </a>
+			<a> in retrospect </a>
+			<a> go easy on someone </a>
+			<a> a thing of the past </a>
+			<a> go easy on (something) </a>
+			<a> run short of </a>
+			<a> hold a grudge </a>
+			<a> push it </a>
+			<a> unless </a>
+			<a> watch one’s words </a>
+			<a> end up </a>
 		</answers>
 		<questions>
-			<q id="7">I promise to think over your proposal, but don't ……………..</q>
-			<q id="10">If he carries on driving like that, he'll …………. Dead.</q>
-			<q id="1">…………….., the old man wished he had traveled more during his younger
+			<q id="6">I promise to think over your proposal, but don't ……………..</q>
+			<q id="9">If he carries on driving like that, he'll …………. Dead.</q>
+			<q id="0">…………….., the old man wished he had traveled more during his younger
 days.</q>
-			<q id="5">Their bodies may …………….. calcium and magnesium.</q>
-			<q id="6">Jane still ……………….. against me for refusing to lend her some money.</q>
-			<q id="9">…………………… otherwise you might get into trouble!</q>
-			<q id="8">I won't pay …………. you provide the goods immediately.</q>
-			<q id="4">The doctor told me to ……………… the spicy food for a while</q>
-			<q id="2">………………. Bill. He’s still too young to manage that on his own.</q>
-			<q id="3">Those stores are ……………—their parent company filed bankruptcy a few years ago</q>
+			<q id="4">Their bodies may …………….. calcium and magnesium.</q>
+			<q id="5">Jane still ……………….. against me for refusing to lend her some money.</q>
+			<q id="8">…………………… otherwise you might get into trouble!</q>
+			<q id="7">I won't pay …………. you provide the goods immediately.</q>
+			<q id="3">The doctor told me to ……………… the spicy food for a while</q>
+			<q id="1">………………. Bill. He’s still too young to manage that on his own.</q>
+			<q id="2">Those stores are ……………—their parent company filed bankruptcy a few years ago</q>
 		</questions>
 	</quiz>
 
