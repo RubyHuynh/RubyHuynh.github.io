@@ -29,34 +29,6 @@
 	</quiz>
 	<quiz>
 		<answers>
-			<a id="0"> let it ride </a>
-			<a id="1"> take action </a>
-			<a id="2"> run down </a>
-			<a id="3"> in no mood to do something </a>
-			<a id="4"> lift a finger </a>
-			<a id="5"> a hard pill to swallow </a>
-			<a id="6"> break up </a>
-			<a id="7"> on top of that </a>
-			<a id="8"> absent-minded </a>
-			<a id="9"> a near miss </a>
-		</answers>
-
-		<questions>
-			<q id="5">That my own son could have done something so horrible is ……………..</q>
-			<q id="2">Without much care, the property had been allowed to ……………..</q>
-			<q id="6">She turned to drugs after the ………………… of her marriage.</q>
-			<q id="9">He drove like a maniac. We had one …………….. after another.</q>
-			<q id="0">Don’t bother with it now. ………………. for a day or two</q>
-			<q id="3">keep it down; boys! Mother is ………………….. put up with our arguing.</q>
-			<q id="8">She is a very ……………….. child who forgets things and loses things.</q>
-			<q id="7">Jane told Bill he was dull. …………………, she said he was unfriendly</q>
-			<q id="1">If there is a breach of regulations, You’re supposed to …………… right away.</q>
-			<q id="4">She does all the work in the house. Nobody else ………………..</q>
-		</questions>
-	</quiz>
-	
-	<quiz>
-		<answers>
 
 				<a id='0'>turn one’s stomach</a>
 
@@ -338,6 +310,153 @@
 				<q id='5'>We're advising all our investors to ……………… till the market improves.</q>
 
 				<q id='9'>He got the promotion just because he was ………………… to the higher-ups.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>to die for </a>
+
+				<a id='1'>call on</a>
+
+				<a id='2'>speaking of</a>
+
+				<a id='3'>be dying for something</a>
+
+				<a id='4'>clear one’s head</a>
+
+				<a id='5'>next-door</a>
+
+				<a id='6'>day and night</a>
+
+				<a id='7'>crave</a>
+
+				<a id='8'>jump at the chance</a>
+
+				<a id='9'>what do you say</a>
+
+				<a id='10'>second to none</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>It is only natural for youngsters to …………… the excitement of driving a fast car.</q>
+
+				<q id='4'>His meeting with the Holtzes seemed to have refreshed Alvin and …………</q>
+
+				<q id='5'>And then this brother lived …………….. and his wife popped in and out.</q>
+
+				<q id='6'>They were hounded ………………. by the press.</q>
+
+				<q id='10'>He has compiled a record ……………. in its wretchedness.</q>
+
+				<q id='0'>There are women who have silver hair …………………</q>
+
+				<q id='3'>Freddie ………………. a glass of water—he was so thirsty.</q>
+
+				<q id='1'>An old friend ……………….. me the day before yesterday.</q>
+
+				<q id='2'>…………………. hamburgers, I am as hungry as a hawk.</q>
+
+				<q id='9'>……………….. to going to the theatre tonight?</q>
+
+				<q id='8'>Members of the public would ……… to become part owners of the corporation.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>a brain</a>
+
+				<a id='1'>the cream of the crop</a>
+
+				<a id='2'>fishy</a>
+
+				<a id='3'>to put one’s finger on (something)</a>
+
+				<a id='4'>judge a book by its cover</a>
+
+				<a id='5'>put up with</a>
+
+				<a id='6'>full of oneself</a>
+
+				<a id='7'>pull strings</a>
+
+				<a id='8'>hands are tied</a>
+
+				<a id='9'>waste one’s breath</a>
+
+				<a id='10'>make one’s own way</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='3'>There's something odd about him, but I can't quite …………………</q>
+
+				<q id='1'>The researchers and institutions in this network are …………………….</q>
+
+				<q id='0'>We’ve got the best ……………… in the country working on this problem.</q>
+
+				<q id='7'>He tried to ……………… with people he knew to avoid being called up.</q>
+
+				<q id='10'>This country prides itself on letting people ……………, relying on no one else's work but their own.</q>
+
+				<q id='2'>I'm convinced there is something …………… going on.</q>
+
+				<q id='9'>I've far better things to do than …………………. arguing.</q>
+
+				<q id='8'>I'd like to help you, but my ………………….</q>
+
+				<q id='5'>I'm too tired to …………………. any nonsense.</q>
+
+				<q id='4'>Learn about the saying! You can't …………………….</q>
+
+				<q id='6'>She doesn't care about other people's feelings. She's ……………………..</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>Here we go again</a>
+
+				<a id='1'>make a laughingstock of</a>
+
+				<a id='2'>put someone down</a>
+
+				<a id='3'>hurt one’s feelings</a>
+
+				<a id='4'>pay for it (mistake)</a>
+
+				<a id='5'>get even</a>
+
+				<a id='6'>take revenge</a>
+
+				<a id='7'>fair is fair</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>We all ……………… our mistakes in some way at some time.</q>
+
+				<q id='6'>Do not ………………, my dear friends, but leave room for God's wrath.</q>
+
+				<q id='2'>He …………… in front of my own employees. He won’t get away with it!</q>
+
+				<q id='1'>I felt I was ………………. myself, wearing such a silly costume in broad daylight.</q>
+
+				<q id='5'>After she insulted me, all I thought about was how I could …………….. with her.</q>
+
+				<q id='7'>You may not like her, but …………………, she's a good teacher.</q>
+
+				<q id='3'>I don’t mean to ………………… but the fact is you’re the one who is left out.</q>
+
+				<q id='0'>Fred : We must continue our discussion of the Wilson project. Sue ……………!</q>
 
 		</questions>
 	</quiz>
