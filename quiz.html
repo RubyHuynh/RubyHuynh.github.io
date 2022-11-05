@@ -134,7 +134,7 @@
 	function check(quiz) {
 		var wrong = 0;
 		
-		var ret = "<span style='color:red;'><i>Mmmm... :( </i></br>";
+		var ret = "<span style='color:red;'><i>Mmm... -.-! </i></br>";
 		
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = "...";
 		//debugger;
@@ -146,7 +146,7 @@
 			}
 		};
 		if (wrong == 0) {
-			ret = "<span style='color:green;'>" + "<i>Yay! :)</i>";
+			ret = "<span style='color:green;'>" + "<i>Yay! >:D</i>";
 		}
 		ret += "</span>";
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = ret;
