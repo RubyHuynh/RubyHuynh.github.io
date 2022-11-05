@@ -175,7 +175,7 @@
 
 				<q id='9'>One day I'll want to ……………….. and have a family.</q>
 
-				<q id='10'> ……………….! It can't be as bad as all that.</q>
+				<q id='10'>……………….! It can't be as bad as all that.</q>
 
 				<q id='8'>I can't ………………. where to take my vacation.</q>
 
@@ -194,6 +194,51 @@
 				<q id='7'>…., it was she who approached me about such a deal, not the other way around.</q>
 
 				<q id='6'>Taking time out to get fit will ………………… in the long run.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>assigned to</a>
+
+				<a id='1'>on behalf of</a>
+
+				<a id='2'>ill at ease</a>
+
+				<a id='3'>be used to something/doing something</a>
+
+				<a id='4'>a breeze</a>
+
+				<a id='5'>mess up</a>
+
+				<a id='6'>think twice</a>
+
+				<a id='7'>bank on</a>
+
+				<a id='8'>give it one’s best shot</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>Don't think that learning Dutch or any other language will be…………………….</q>
+
+				<q id='2'>I'm usually ………………… when addressing a large crowd of people.</q>
+
+				<q id='0'>An experienced detective was …………………….. the case.</q>
+
+				<q id='3'>Never mind me! I ………………….. having my sleep interrupted.</q>
+
+				<q id='8'>Henry ………………………, but the board still denied his proposal.</q>
+
+				<q id='6'>A previous divorce can make you ……………….. about getting married again.</q>
+
+				<q id='1'>……. my client, I would like to remind you of your obligations in this matter.</q>
+
+				<q id='7'>You can ……………… him to hand you a reasonable bill for your services.</q>
+
+				<q id='5'>If you cancel now you'll ………………….. all my arrangements.</q>
 
 		</questions>
 	</quiz>
