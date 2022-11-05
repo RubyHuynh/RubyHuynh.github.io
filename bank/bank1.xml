@@ -54,6 +54,7 @@
 			<q id="4">She does all the work in the house. Nobody else ………………..</q>
 		</questions>
 	</quiz>
+	
 	<quiz>
 		<answers>
 
@@ -239,6 +240,104 @@
 				<q id='7'>You can ……………… him to hand you a reasonable bill for your services.</q>
 
 				<q id='5'>If you cancel now you'll ………………….. all my arrangements.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>make up (compensate)</a>
+
+				<a id='1'>tied up</a>
+
+				<a id='2'>make up (reconcile)</a>
+
+				<a id='3'>go too far</a>
+
+				<a id='4'>hang out</a>
+
+				<a id='5'>make up (form)</a>
+
+				<a id='6'>make up (create)</a>
+
+				<a id='7'>have a knack for</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='6'>The teacher asked the students to ………….. short dialogues by themselves.</q>
+
+				<q id='0'>He leans over backwards to ……………… for what he has lost.</q>
+
+				<q id='5'>Road accident victims …………….. almost a quarter of the hospital's patients.</q>
+
+				<q id='2'>We often quarrel but we always ………… it ……………. soon after.</q>
+
+				<q id='3'>It's all very well having a joke but sometimes you ………………..</q>
+
+				<q id='7'>Do you ……………. coming up with ideas? If so, we would love to hear from you.</q>
+
+				<q id='4'>Guys play basketball, goof off, gamble, ………………, argue and ignore their women.</q>
+
+				<q id='1'>I'm afraid I 'll be ……………. tomorrow at ten.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>can’t wait</a>
+
+				<a id='1'>make a hit</a>
+
+				<a id='2'>knock someone out</a>
+
+				<a id='3'>keep one’s fingers crossed</a>
+
+				<a id='4'>jump the gun</a>
+
+				<a id='5'>sit tight</a>
+
+				<a id='6'>come to light</a>
+
+				<a id='7'>lose face</a>
+
+				<a id='8'>slip one’s mind</a>
+
+				<a id='9'>a bootlicker</a>
+
+				<a id='10'>well-intentioned</a>
+
+				<a id='11'>give someone the creeps</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='10'>Even the most ……………….. doctors can forget to suggest routine tests.</q>
+
+				<q id='3'>We will be ………………. that a quick thaw is on its way</q>
+
+				<q id='11'>I stay away from that old house on the corner, it ……………………!</q>
+
+				<q id='2'>That movie really ………… me ………….—I didn't expect it to be so good!</q>
+
+				<q id='1'>You will …………………. at the party in your new dress.</q>
+
+				<q id='0'>Mom ………………….. for the flowers to bloom and brighten up our yard.</q>
+
+				<q id='8'>I meant to pick up the seats but it just ………………………..</q>
+
+				<q id='7'>The code of conduct required that he strike back or …………………..</q>
+
+				<q id='6'>Fresh evidence has recently … that suggests that he didn't commit the murder.</q>
+
+				<q id='4'>When we took the test, Tom ………………… and started early.</q>
+
+				<q id='5'>We're advising all our investors to ……………… till the market improves.</q>
+
+				<q id='9'>He got the promotion just because he was ………………… to the higher-ups.</q>
 
 		</questions>
 	</quiz>
