@@ -133,7 +133,8 @@
 	
 	function check(quiz) {
 		var wrong = 0;
-		var ret = "<i>Mmmm... :( </i></br>";
+		
+		var ret = "<span style='color:red;'><i>Mmmm... :( </i>";
 		
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = "...";
 		//debugger;
@@ -145,8 +146,9 @@
 			}
 		};
 		if (wrong == 0) {
-			ret = "<i>Yay! :) </i>";
+			ret = "<span style='color:green;'>" + "<i>Congratulation! Correct all!</i>";
 		}
+		ret += "</span>";
 		document.getElementById("aaa_" + quiz.toString()).innerHTML = ret;
 	}
 	
