@@ -2,6 +2,60 @@
 <bank>
 	<quiz>
 		<answers>
+			<a> in retrospect </a>
+			<a> go easy on someone </a>
+			<a> a thing of the past </a>
+			<a> go easy on (something) </a>
+			<a> run short of </a>
+			<a> hold a grudge </a>
+			<a> push it </a>
+			<a> unless </a>
+			<a> watch one’s words </a>
+			<a> end up </a>
+		</answers>
+
+		<questions>
+			<q id="6">I promise to think over your proposal, but don't ……………..</q>
+			<q id="9">If he carries on driving like that, he'll …………. Dead.</q>
+			<q id="0">…………….., the old man wished he had traveled more during his younger days.</q>
+			<q id="4">Their bodies may …………….. calcium and magnesium.</q>
+			<q id="5">Jane still ……………….. against me for refusing to lend her some money.</q>
+			<q id="8">…………………… otherwise you might get into trouble!</q>
+			<q id="7">I won't pay …………. you provide the goods immediately.</q>
+			<q id="3">The doctor told me to ……………… the spicy food for a while</q>
+			<q id="1">………………. Bill. He’s still too young to manage that on his own.</q>
+			<q id="2">Those stores are ……………—their parent company filed bankruptcy a few years ago</q>
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+			<a id="0"> let it ride </a>
+			<a id="1"> take action </a>
+			<a id="2"> run down </a>
+			<a id="3"> in no mood to do something </a>
+			<a id="4"> lift a finger </a>
+			<a id="5"> a hard pill to swallow </a>
+			<a id="6"> break up </a>
+			<a id="7"> on top of that </a>
+			<a id="8"> absent-minded </a>
+			<a id="9"> a near miss </a>
+		</answers>
+
+		<questions>
+			<q id="5">That my own son could have done something so horrible is ……………..</q>
+			<q id="2">Without much care, the property had been allowed to ……………..</q>
+			<q id="6">She turned to drugs after the ………………… of her marriage.</q>
+			<q id="9">He drove like a maniac. We had one …………….. after another.</q>
+			<q id="0">Don’t bother with it now. ………………. for a day or two</q>
+			<q id="3">keep it down; boys! Mother is ………………….. put up with our arguing.</q>
+			<q id="8">She is a very ……………….. child who forgets things and loses things.</q>
+			<q id="7">Jane told Bill he was dull. …………………, she said he was unfriendly</q>
+			<q id="1">If there is a breach of regulations, You’re supposed to …………… right away.</q>
+			<q id="4">She does all the work in the house. Nobody else ………………..</q>
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
 
 				<a id='0'>turn one’s stomach</a>
 
