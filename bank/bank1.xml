@@ -686,4 +686,233 @@
 
 		</questions>
 	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>top-notch</a>
+
+				<a id='1'>back out of</a>
+
+				<a id='2'>I beg to differ</a>
+
+				<a id='3'>wash one’s hand of</a>
+
+				<a id='4'>stick one's neck out</a>
+
+				<a id='5'>ask for trouble</a>
+
+				<a id='6'>fall off</a>
+
+				<a id='7'>twiddle one’s thumbs</a>
+
+				<a id='8'>stink</a>
+
+				<a id='9'>money doesn’t grow on trees</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>She put me on hold and left me ………………….. for ten minutes.</q>
+
+				<q id='4'>I'm going to ………………….. for you and present your idea to the boss.</q>
+
+				<q id='0'>Find yourself a ……………. university, preferably one with room to spare.</q>
+
+				<q id='1'>The government is trying to …………………. its commitment to reduce pollution.</q>
+
+				<q id='5'>Giving him such a powerful car when he's only just learned to drive is …………..</q>
+
+				<q id='8'>The trash really …………… - why don't you take it out?</q>
+
+				<q id='2'>I …………………. with you, but you have stated everything exactly backwards.</q>
+
+				<q id='6'>Orders slowed; causing sales to ………………. dramatically.</q>
+
+				<q id='3'>I've done all I can for him, and now I'm ………………………….. him.</q>
+
+				<q id='9'>I can’t give you any more pocket money, Alice. ………………, you know.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>knock out (defeat)</a>
+
+				<a id='1'>knock someone out (impress)</a>
+
+				<a id='2'>knock out (destroy)</a>
+
+				<a id='3'>knock out (become unconscious)</a>
+
+				<a id='4'>knock oneself out (make lots of efforts to do sth)</a>
+
+				<a id='5'>junkie</a>
+
+				<a id='6'>dead-end</a>
+
+				<a id='7'>go through</a>
+
+				<a id='8'>morbid</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='6'>It’s time you quit that ……………… job and find a more rewarding one.</q>
+
+				<q id='2'>The storm …………………. the phones all around the country.</q>
+
+				<q id='3'>Those sleeping pills ………………me ……….. for ten hours.</q>
+
+				<q id='1'>The response to my work has absolutely ………….. me ……………...</q>
+
+				<q id='0'>Mark my words! We’ll ………… them ……….. from the first round.</q>
+
+				<q id='4'>Don’t ……….. yourself ……………. . The battery’s dead.</q>
+
+				<q id='5'>Thomas is a computer ………………. . He works hours and hours nonstop!</q>
+
+				<q id='8'>My mind was filled with ………….. thoughts of death.</q>
+
+				<q id='7'>He's amazingly cheerful considering all he's had to ....</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>black and blue</a>
+
+				<a id='1'>break up a fight (break it up)</a>
+
+				<a id='2'>sound like</a>
+
+				<a id='3'>break up (end a relationship)</a>
+
+				<a id='4'>turn upside down</a>
+
+				<a id='5'>a flirt</a>
+
+				<a id='6'>the heart of the matter</a>
+
+				<a id='7'>teach someone a lesson</a>
+
+				<a id='8'>cut from the same cloth</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='6'>…………. is that the relevant economic context is not Europe but globalization.</q>
+
+				<q id='5'>Peter was a shameless ………………………. with all the girls in school.</q>
+
+				<q id='3'>He felt appalled by the whole idea of marriage so we …………………….</q>
+
+				<q id='4'>He ………………. the whole house ……………… looking for his checkbook.</q>
+
+				<q id='2'>That kitten ……………….. a human baby.</q>
+
+				<q id='0'>He earned good money being beaten ………………. as a prize fighter.</q>
+
+				<q id='8'>She and her brother are ……………………… . They both tell lies all the time.</q>
+
+				<q id='7'>The point is they were …………………….. for daring to complain.</q>
+
+				<q id='1'>When the teacher saw the two boys shove each other, she came running over to try to …………………...</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>rat race</a>
+
+				<a id='1'>get someone down</a>
+
+				<a id='2'>bite more than one can chew </a>
+
+				<a id='3'>run/go around in circles</a>
+
+				<a id='4'>simmer down </a>
+
+				<a id='5'>take it easy </a>
+
+				<a id='6'>kick out</a>
+
+				<a id='7'>go/get nowhere </a>
+
+				<a id='8'>sell oneself short </a>
+
+				<a id='9'>come clean</a>
+
+				<a id='10'>a clean/clear conscience</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='6'>The movie theater ………………….. that guy for sneaking food inside.</q>
+
+				<q id='8'>Don't ………………………… — your writing is really excellent!</q>
+
+				<q id='7'>He and I dated for a while, but it ……………………..</q>
+
+				<q id='10'>I didn't do it. I swear to that with a ………………………….</q>
+
+				<q id='9'>My children always …………………. about making the mess in the house.</q>
+
+				<q id='0'>She is still so young, it is sad to see her being so caught in the ……………...</q>
+
+				<q id='2'>You don't have to ………………… by accepting the job in Alaska while winters.</q>
+
+				<q id='1'>The thought of working for a faceless corporation really …………………….</q>
+
+				<q id='3'>In the absence of adequate data, the surveyors are just ………………..</q>
+
+				<q id='4'>Children, recess is over , so ……………………. and take your seats, please.</q>
+
+				<q id='5'>I'm going to put my feet up and ………………… this afternoon.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>well worth</a>
+
+				<a id='1'>ballpark figure</a>
+
+				<a id='2'>big bucks</a>
+
+				<a id='3'>get carried away</a>
+
+				<a id='4'>give or take</a>
+
+				<a id='5'>drop someone a line</a>
+
+				<a id='6'>keep someone posted</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='3'>You should not …………………. by success or get disappointed by failure.</q>
+
+				<q id='0'>The art of Early American furniture painters is ……………… studying.</q>
+
+				<q id='6'>Right now, her condition is stable. We promise to ……………. as she improves.</q>
+
+				<q id='5'>I'll ………… you …………. once I get settled in at school.</q>
+
+				<q id='2'>Sports stars earn ………………. for pushing everything from shoes to soft drinks.</q>
+
+				<q id='1'>We'll have to go away and cost this carefully, but as ……………….. I'd say that it'll be about two million dollars.</q>
+
+				<q id='4'>…………………. a few years, they are contemporaries.</q>
+
+		</questions>
+	</quiz>
 </bank>
