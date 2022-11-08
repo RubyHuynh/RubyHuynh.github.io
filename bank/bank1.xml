@@ -915,4 +915,241 @@
 
 		</questions>
 	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>back up</a>
+
+				<a id='1'>have on</a>
+
+				<a id='2'>off-hand</a>
+
+				<a id='3'>brush up on</a>
+
+				<a id='4'>slip one’s mind</a>
+
+				<a id='5'>all at once</a>
+
+				<a id='6'>off the top of one’s head</a>
+
+				<a id='7'>give someone a break</a>
+
+				<a id='8'>in an awkward position</a>
+
+				<a id='9'>blow one’s own horn</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='1'>Oh! I can’t afford this now. I don’t …………… enough money ……… me.</q>
+
+				<q id='8'>ow do you say we backed out of the weekend arrangement without asking me first? Good for you! You’re really brilliant and putting me ……………………………!</q>
+
+				<q id='7'>He's seven times as quick and he's only 20 years old—………….. me……………..!</q>
+
+				<q id='4'>I'm sorry I didn't call you back sooner, it totally ………….. my…………………</q>
+
+				<q id='5'>It's a lot of information to absorb ……………….</q>
+
+				<q id='6'>I know of two people who are coming …………………, but I'm pretty sure more said they'd be here.</q>
+
+				<q id='2'>I can't quote the exact statistics for you …….……, they're in this report.</q>
+
+				<q id='0'>Wait—…………….. a little. What did you say that phone number was?</q>
+
+				<q id='3'>It does make sense to ………………. my French before I go to Paris.</q>
+
+				<q id='9'>I don't mean to ………………, but this pasta sauce I made is quite delicious!</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>clear the air</a>
+
+				<a id='1'>make a mountain out of a molehill</a>
+
+				<a id='2'>open up</a>
+
+				<a id='3'>wipe someone out</a>
+
+				<a id='4'>no simple/easy matter</a>
+
+				<a id='5'>on the edge</a>
+
+				<a id='6'>be doomed to</a>
+
+				<a id='7'>learn it the hard way</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='0'>The silent treatment isn't helping the situation between you two, so just ………….. already!</q>
+
+				<q id='2'>As time passed, and with the continuous urging, she finally …………. to me.</q>
+
+				<q id='7'>Starting your own business is really tough. I had to ………………...</q>
+
+				<q id='5'>After the horrible events of the last week, we are all ………………...</q>
+
+				<q id='4'>It's ………………… to find a decent place to live in this city.</q>
+
+				<q id='3'>Standing in lines …………. me ………… . Please fill the forms yourself.</q>
+
+				<q id='6'>Those who do not know history ………………….. repeat it.</q>
+
+				<q id='1'>Don't ... a ……………….., you only lost one chance. You can give it a another</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>get hold of someone</a>
+
+				<a id='1'>get through</a>
+
+				<a id='2'>get someone wrong</a>
+
+				<a id='3'>out of order</a>
+
+				<a id='4'>leave someone a message</a>
+
+				<a id='5'>out of the ordinary</a>
+
+				<a id='6'>head over heels in love</a>
+
+				<a id='7'>let someone know</a>
+
+				<a id='8'>the big day</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='5'>I didn't observe anything …………………… about her behavior that day.</q>
+
+				<q id='1'>An old friend might well be able to ………………… to her and help her.</q>
+
+				<q id='7'>Be sure to ……………………. if anything changes between now and then.</q>
+
+				<q id='0'>I haven't talked to her in years, so I wouldn't know how to ………… her anymore.</q>
+
+				<q id='3'>Sorry, the vending machine is …………… . You'll have to go across the street to get a snack.</q>
+
+				<q id='6'>Sam was obviously …………… with his new bride, and Martha was clearly content.</q>
+
+				<q id='8'>He was fastidious in his preparation for ………………..</q>
+
+				<q id='4'>Unless you get through to Steve by phone, just …………………… . He will catch up later on.</q>
+
+				<q id='2'>You've ……………………— I know he seems gruff, but he's a total sweetheart.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>stink</a>
+
+				<a id='1'>rotten</a>
+
+				<a id='2'>Good for you!</a>
+
+				<a id='3'>lose one’s appetite</a>
+
+				<a id='4'>eat out</a>
+
+				<a id='5'>on second thought</a>
+
+				<a id='6'>on a diet</a>
+
+				<a id='7'>lose weight</a>
+
+				<a id='8'>strong-willed</a>
+
+				<a id='9'>enough already</a>
+
+				<a id='10'>somebody’s head is spinning</a>
+
+				<a id='11'>grab a bite</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>You shouldn't be eating that burger as long as you’re trying to ………..</q>
+
+				<q id='10'>Let’s slow down for heaven’s sake! My …………………..</q>
+
+				<q id='6'>My doctor put me …………….. of nothing but fruits, vegetables, and nuts.</q>
+
+				<q id='3'>Hearing the gruesome details of the murder made me ……………………..</q>
+
+				<q id='8'>She wondered why ……… Miranda was going along with what Adam wanted.</q>
+
+				<q id='9'>Let’s get the ball rolling; boys - ………………… with making excuses!</q>
+
+				<q id='0'>How on earth could she stay there? The place …………….. like a sewer!</q>
+
+				<q id='2'>Bob ; “Well, I have to confess that I made a mess of the event”. Luna : “………….!”</q>
+
+				<q id='11'>Bob often tries to …………….. between meetings.</q>
+
+				<q id='5'>…………………, I see by doing this we might be in for another failure.</q>
+
+				<q id='1'>The wood was so ………………. you could put your finger through it.</q>
+
+				<q id='4'>I used to ..... in the evening when my parents were on nightshifts.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>pocket money</a>
+
+				<a id='1'>foot the bill</a>
+
+				<a id='2'>big deal</a>
+
+				<a id='3'>winning streak</a>
+
+				<a id='4'>on the horizon</a>
+
+				<a id='5'>up in the air</a>
+
+				<a id='6'>go to the dogs</a>
+
+				<a id='7'>rest assured</a>
+
+				<a id='8'>breakthrough</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>You can ……….. that we will do everything we can to get your money back.</q>
+
+				<q id='0'>The average amount of ……….. received by teenagers fell to £ 4 a week .</q>
+
+				<q id='8'>Police believe the items are a major …………….. in the six-week-old inquiry.</q>
+
+				<q id='2'>A. “I will be the one in charge for the last quarter”. B. “…….……..!”</q>
+
+				<q id='4'>Many analysts warned that an economic crash was …………………, but none of the world's governments paid any mind.</q>
+
+				<q id='6'>This firm has …………………. since the new management took over.</q>
+
+				<q id='5'>The proposal to build a golf course next to the airport is still ……………...</q>
+
+				<q id='3'>We've finally started having a bit of a ……………….. with our latest products.</q>
+
+				<q id='1'>Don't be angry, I will ……………….. for damage to your car.</q>
+
+		</questions>
+	</quiz>
 </bank>
