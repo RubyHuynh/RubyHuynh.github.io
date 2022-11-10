@@ -1394,4 +1394,241 @@
 
 		</questions>
 	</quiz>
+		<quiz>
+		<answers>
+
+				<a id='0'>get a load of</a>
+
+				<a id='1'>appearances are deceiving</a>
+
+				<a id='2'>spoiled</a>
+
+				<a id='3'>get a kick out of</a>
+
+				<a id='4'>in stitches</a>
+
+				<a id='5'>give in</a>
+
+				<a id='6'>go out of control</a>
+
+				<a id='7'>hit the nail on the head</a>
+
+				<a id='8'>over and over again</a>
+
+				<a id='9'>fall on deaf ears</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='2'>Kids are bound to end up …………….. if their parents are too easy-going.</q>
+
+				<q id='9'>Her pleas for mercy …………….; the judge gave her the maximum sentence.</q>
+
+				<q id='7'>You've found the problem, Sid! You ……………………….!</q>
+
+				<q id='8'>I can't stop singing this one verse ……………………….. in my head.</q>
+
+				<q id='0'>………………………. George over there. That dude knows how to dress!</q>
+
+				<q id='1'>Jane may look like she doesn't understand you, but she's really extremely bright. ……………………...</q>
+
+				<q id='3'>One seller admits she …………………… tricking people.</q>
+
+				<q id='6'>Everyone was frightened to death as the car ………………..</q>
+
+				<q id='4'>Here's a book that will have you ……………….</q>
+
+				<q id='5'>I don't think he will …………….. to your requests if you keep pestering him.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>lose touch</a>
+
+				<a id='1'>track down</a>
+
+				<a id='2'>keep in touch with</a>
+
+				<a id='3'>come across</a>
+
+				<a id='4'>tied down</a>
+
+				<a id='5'>live it up</a>
+
+				<a id='6'>in a rut</a>
+
+				<a id='7'>touch base</a>
+
+				<a id='8'>on the go</a>
+
+				<a id='9'>hark back to</a>
+
+				<a id='10'>the good old days</a>
+
+				<a id='11'>yearn for</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='10'>Do you get very nostalgic about ………………………..?</q>
+
+				<q id='1'>The police have so far failed to …………………. the attacker.</q>
+
+				<q id='11'>Others may ……… life on a more even keel but they do not feel entitled to it.</q>
+
+				<q id='0'>I’ve lived in the US for 10 years, so I’ve somewhat ………… with British politics.</q>
+
+				<q id='9'>The newest styles ...... the clothes of the Seventies.</q>
+
+				<q id='8'>She is constantly ………….., running around, pushing other kids, throwing toys.</q>
+
+				<q id='4'>Ken doesn't want to be ………………. to any woman.</q>
+
+				<q id='2'>They …………………. their members by issuing a quarterly newsletter.</q>
+
+				<q id='5'>The western cowboys usually went to town so Saturdays to ……………...</q>
+
+				<q id='6'>If you're …………….., go see an inspiring movie or go to the theater.</q>
+
+				<q id='3'>Turn up your dictionary when you …………………. difficult words.</q>
+
+				<q id='7'>Being there gave me a chance to ……………… with three some friends.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>down-to-earth</a>
+
+				<a id='1'>hit it off</a>
+
+				<a id='2'>a fair-weather friend</a>
+
+				<a id='3'>the other day</a>
+
+				<a id='4'>give someone a cold shoulder</a>
+
+				<a id='5'>on and off</a>
+
+				<a id='6'>steer clear of</a>
+
+				<a id='7'>look down one’s nose at someone</a>
+
+				<a id='8'>well-off</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='2'>Simran is looking for a loyal friend, not ..…………………………...</q>
+
+				<q id='0'>She is very ……………. person, not at all attracted by the glamour world.</q>
+
+				<q id='1'>I had to leave — I didn't really …………………… with the new manager.</q>
+
+				<q id='5'>I was still working ……………………… as a waitress to support myself.</q>
+
+				<q id='8'>History suggests several steady, reliable ways to become …………. or even wealthy.</q>
+
+				<q id='7'>They rather ………………………….. anyone who couldn't speak French.</q>
+
+				<q id='6'>His doctor advised him to ………………… alcohol.</q>
+
+				<q id='3'>Just ………………… I was saying to Bob that I'd love to travel to France.</q>
+
+				<q id='4'>I thought she really liked me, but the next day she ………………………..</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>leads someone around by the nose</a>
+
+				<a id='1'>a pushover</a>
+
+				<a id='2'>fill someone in on</a>
+
+				<a id='3'>have a mind of one’s own</a>
+
+				<a id='4'>put the screws on</a>
+
+				<a id='5'>someone cheat on someone</a>
+
+				<a id='6'>at odds</a>
+
+				<a id='7'>see eye to eye</a>
+
+				<a id='8'>stand up for oneself</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='2'>Please …………………… what happened last night.</q>
+
+				<q id='6'>She gave him a sweet smile, totally ………………. the look of dislike in her eyes.</q>
+
+				<q id='1'>Dad's ……………….. . He'll let me do anything I want.</q>
+
+				<q id='7'>Though they work as a team, they often don't ………………. on most issues.</q>
+
+				<q id='8'>You've got to …………………………., stop being such a mama's boy.</q>
+
+				<q id='0'>I can't stand the way your mother …………….. like that and tells you what to do!</q>
+
+				<q id='4'>The electricity company is really …………………. . We've got a week to pay before our supply is cut off!</q>
+
+				<q id='3'>Her parents want her to go to college, but she …………………. and insists on trying to become an actress.</q>
+
+				<q id='5'>The magazine claims that almost half of Britain's women …………. their partners.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>on the rocks</a>
+
+				<a id='1'>a false alarm</a>
+
+				<a id='2'>blow something up</a>
+
+				<a id='3'>on shaky ground</a>
+
+				<a id='4'>split up</a>
+
+				<a id='5'>at fault</a>
+
+				<a id='6'>have a bun in the oven</a>
+
+				<a id='7'>on the same wavelength</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='0'>His business is …………………. because of his poor marketing policies.</q>
+
+				<q id='7'>I am sure he will be gratified to learn that we are ……………………...</q>
+
+				<q id='5'>Throwing a baby shower is one of the best ways to announce that you …..</q>
+
+				<q id='1'>He thought he might be having a heart attack, but his chest pains were just a ………………..</q>
+
+				<q id='2'>I'm sure he didn't mean anything by that comment—don't ………….. too much.</q>
+
+				<q id='3'>His hypothesis has been ……………… to since the beginning, so I'm not surprised that he couldn't prove it in the lab.</q>
+
+				<q id='4'>When they ……………….. she flung herself into her work to try to forget him.</q>
+
+				<q id='5'>The party ………………… in a court case usually pays the other party's legal costs.</q>
+
+		</questions>
+	</quiz>
 </bank>
