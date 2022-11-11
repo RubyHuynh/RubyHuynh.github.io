@@ -1631,4 +1631,241 @@
 
 		</questions>
 	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>make time</a>
+
+				<a id='1'>have a heart of gold</a>
+
+				<a id='2'>easier said than done</a>
+
+				<a id='3'>from scratch</a>
+
+				<a id='4'>if the worst comes to the worst</a>
+
+				<a id='5'>jump the gun</a>
+
+				<a id='6'>lose one’s head</a>
+
+				<a id='7'>have a one track mind</a>
+
+				<a id='8'>no hard feelings</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='0'>The Leader of the House should …………….. next week for this urgent matter to be discussed.</q>
+
+				<q id='2'>We talk about reducing our costs, but it's ……………………………..</q>
+
+				<q id='3'>The plan’s completely ruined, so we'll have to start …………………...</q>
+
+				<q id='5'>He …………………. and booked a seat for me even before I had confirmed that I was coming.</q>
+
+				<q id='6'>He ………………….. completely when his wife left him over his drinking habit.</q>
+
+				<q id='7'>He has a ………………… when he's working on a project — he thinks of nothing else.</q>
+
+				<q id='8'>I'm sorry that things ended this way. ………………………..?</q>
+
+				<q id='4'>We should be in when you arrive, but ………………….., the neighbors have a spare key and will let you into the house.</q>
+
+				<q id='1'>Sarah always goes out of her way to help everyone she can—she really ……</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>a bit of a stretch</a>
+
+				<a id='1'>no brainer</a>
+
+				<a id='2'>take it out on</a>
+
+				<a id='3'>cope with</a>
+
+				<a id='4'>worth one’s while</a>
+
+				<a id='5'>sit idly by</a>
+
+				<a id='6'>like pulling teeth</a>
+
+				<a id='7'>lay out</a>
+
+				<a id='8'>know one’s stuff</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='5'>I feel so guilty for …………… while my son was going through such a difficult time in his life.</q>
+
+				<q id='1'>That last test question was a complete ……………...</q>
+
+				<q id='2'>I get that you're upset, but why are you …………… that poor pillow? What did it ever do to you?</q>
+
+				<q id='0'>Diana sold all her shared? Well, that’s ……………………</q>
+
+				<q id='3'>She was finding it hard to ………. her son's increasingly antisocial behavior.</q>
+
+				<q id='6'>Getting her to tell me about her childhood was ………………...</q>
+
+				<q id='7'>These documents …………….. the principles clearly enough.</q>
+
+				<q id='8'>I think Nicole is our best candidate for the job—she really ……………. when it comes to corporate accounting.</q>
+
+				<q id='4'>Staying up late tonight won't ………………. because then I'll be exhausted the whole rest of the week.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>just what the doctor ordered</a>
+
+				<a id='1'>make progress</a>
+
+				<a id='2'>can’t complain</a>
+
+				<a id='3'>measure up</a>
+
+				<a id='4'>not make a fool of oneself</a>
+
+				<a id='5'>stick with</a>
+
+				<a id='6'>hit the jackpot</a>
+
+				<a id='7'>get the ball rolling</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='0'>A short nap is ………………. . You'll feel refreshed in no time.</q>
+
+				<q id='2'>A. “How are things?”. B. “I …………………, it can’t be better”.</q>
+
+				<q id='5'>He said that he was going to …………….. the traditions established by his grandfather.</q>
+
+				<q id='7'>We have no more time to waste. Let’s …………………………..</q>
+
+				<q id='4'>I'm not going to dance too much at the party because I don't want to ……………………. in front of my coworkers.</q>
+
+				<q id='6'>I went through all the people called Lasalles in the Sydney phone book until I ……………………...</q>
+
+				<q id='1'>The medical community continues to ………………….. in the fight against cancer.</q>
+
+				<q id='3'>This meal doesn't …………………….. to my expectations.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>lineup</a>
+
+				<a id='1'>Achilles heel</a>
+
+				<a id='2'>right wing</a>
+
+				<a id='3'>striker</a>
+
+				<a id='4'>have a go</a>
+
+				<a id='5'>free kick</a>
+
+				<a id='6'>wide</a>
+
+				<a id='7'>outswinger</a>
+
+				<a id='8'>penalty kick</a>
+
+				<a id='9'>miss the target</a>
+
+				<a id='10'>blow the final whistle</a>
+
+				<a id='11'>counterattack</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>I'm ………… at doing my own taxes to save on the cost of hiring an accountant.</q>
+
+				<q id='1'>The corrupt minister is the government's ……………. and is expected to resign.</q>
+
+				<q id='8'>In the championship final, he scored the winning ……………………….</q>
+
+				<q id='10'>The referee …………………….. to signal that the game is finished.</q>
+
+				<q id='11'>The men had relinquished their position at the first serious …………………….</q>
+
+				<q id='9'>Relying on incorrect assumptions, they ended up …………………..</q>
+
+				<q id='0'>He wanted to mix his …… and see how different players performed together.</q>
+
+				<q id='6'>He did his best, but the shot went ……………...</q>
+
+				<q id='7'>You get a real sense of achievement from a blistering drive or an unplayable …</q>
+
+				<q id='2'>He plays on the ………………….. and has pace as well as skill.</q>
+
+				<q id='3'>They will be without …………………………, Ridvan Dilmen, who has a leg injury.</q>
+
+				<q id='5'>Luton conceded a ………………….. on the edge of the penalty area.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>take by storm</a>
+
+				<a id='1'>corner the market</a>
+
+				<a id='2'>viral marketing</a>
+
+				<a id='3'>tease</a>
+
+				<a id='4'>a given</a>
+
+				<a id='5'>twist one’s arm</a>
+
+				<a id='6'>keep track of</a>
+
+				<a id='7'>be behind in</a>
+
+				<a id='8'>it takes two to tango</a>
+
+				<a id='9'>it’s a deal</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='8'>It takes ..... I cannot do this all alone, neither can you - ……….</q>
+
+				<q id='0'>The singing star ………………. the audience in each town …………...</q>
+
+				<q id='4'>It's a …..…. that the writer of short stories will be keeping his day job.</q>
+
+				<q id='5'>I didn't want to go to the exhibition, but Linda ……………..</q>
+
+				<q id='7'>I won’t join you this evening guys! I am ………………. my studies.</q>
+
+				<q id='6'>How do you …………………… time if you don't wear a watch ?</q>
+
+				<q id='9'>…………………. I will clean the garage if you stop bothering me about it.</q>
+
+				<q id='2'>I knew …………….. was a great way to get our product some exposure because everyone is online and on Facebook.</q>
+
+				<q id='3'>The other children …………………… her because she was wearing braces.</q>
+
+				<q id='1'>They've more or less ………….. the fast-food ………… - they're in every big city in the world.</q>
+
+		</questions>
+	</quiz>
 </bank>
