@@ -2089,4 +2089,241 @@
 
 		</questions>
 	</quiz>
+<quiz>
+		<answers>
+
+				<a id='0'>dead letter</a>
+
+				<a id='1'>cut to the chase</a>
+
+				<a id='2'>home free</a>
+
+				<a id='3'>in good hands</a>
+
+				<a id='4'>what’s the point of</a>
+
+				<a id='5'>red tape</a>
+
+				<a id='6'>time-worn</a>
+
+				<a id='7'>when the pigs fly</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='0'>No one does anything about it and the law becomes a ……………….</q>
+
+				<q id='5'>Because of all ……………… at immigration I missed my connecting flight</q>
+
+				<q id='4'>…………….. studying math in school anyway? No one ever uses it in real life.</q>
+
+				<q id='6'>He gave us the same ……………. speech about the need to work hard.</q>
+
+				<q id='7'>A. “Jerry said she would quit smoking”. B; “Yeah! ……………”</q>
+
+				<q id='1'>I didn't have time to chat, so I told Ben to ………….. and just tell me what he wanted.</q>
+
+				<q id='2'>I'm so relieved that the scans are clean. After months of treatment, I'm finally …………!</q>
+
+				<q id='3'>The company is ………………. . It will be successful for many years, because the managers are all very smart and capable people.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>run-down (old)</a>
+
+				<a id='1'>hell</a>
+
+				<a id='2'>run-down (tired)</a>
+
+				<a id='3'>in the middle of nowhere</a>
+
+				<a id='4'>hustle and bustle</a>
+
+				<a id='5'>not on your life</a>
+
+				<a id='6'>rundown (analysis)</a>
+
+				<a id='7'>take over</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>The army is/are threatening to …………….. if civil unrest continues.</q>
+
+				<q id='5'>A. “You’re going to pick up the equipment. Aren’t you?” B.” ………………..”</q>
+
+				<q id='6'>I can give you a brief ………………. on each of the job applicants</q>
+
+				<q id='0'>He buys up …………… properties, fixes them up and resells them.</q>
+
+				<q id='2'>We're completely ………………… and need a thorough rest.</q>
+
+				<q id='4'>Shell Cottage provides the perfect retreat from the ……………… of London.</q>
+
+				<q id='3'>One time we got stranded in a little town ………………………..</q>
+
+				<q id='1'>With the presence of this blabbermouth, work is sheer ………………</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>patch up</a>
+
+				<a id='1'>turn over a new leaf</a>
+
+				<a id='2'>suck up</a>
+
+				<a id='3'>gloss over</a>
+
+				<a id='4'>under-the-table</a>
+
+				<a id='5'>on the level</a>
+
+				<a id='6'>a carbon copy</a>
+
+				<a id='7'>dogs of the same street bark alike</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>Steven and Peter went to the same school and are of the same neighborhood. They have almost identical habits and interests. Well, it’s true that ………… .</q>
+
+				<q id='5'>I need to you to be ………. with me: do I have any chance at this promotion?</q>
+
+				<q id='4'>A few tabloid newspapers got hold of this ……………….. gossip.</q>
+
+				<q id='6'>That particular trip was more or less a ………………… of the previous one.</q>
+
+				<q id='0'>Jackie and Bill are still trying to ………………….. their marriage.</q>
+
+				<q id='1'>After years of drifting from job to job, Danny …….. and got himself a steady gig.</q>
+
+				<q id='2'>You don’t have to …………… to them anymore. We have got the upper hand already!</q>
+
+				<q id='3'>Some foreign governments appear happy to ……….. continued human rights abuses.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>a nag</a>
+
+				<a id='1'>hound someone</a>
+
+				<a id='2'>in the same boat</a>
+
+				<a id='3'>get off one’s back</a>
+
+				<a id='4'>boss someone around</a>
+
+				<a id='5'>open-minded</a>
+
+				<a id='6'>knock it off</a>
+
+				<a id='7'>a pill</a>
+
+				<a id='8'>take something with a pinch of salt</a>
+
+				<a id='9'>harp on</a>
+
+				<a id='10'>Looney bin</a>
+
+				<a id='11'>farce</a>
+
+				<a id='12'>take something to heart</a>
+
+				<a id='13'>nitpicks</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='11'>The way mechanics charge for their services sometimes seems like a …………..</q>
+
+				<q id='13'>If you spent less time ……………… , you'd get more work done.</q>
+
+				<q id='9'>I shall keep ………………… about it until we get the answers.</q>
+
+				<q id='4'>You can't …………… me ………….. just because Mom isn't here!</q>
+
+				<q id='0'>He kept …………….. her until she agreed to see the movie.</q>
+
+				<q id='8'>You have to ……. everything she says ………., because she tends to exaggerate.</q>
+
+				<q id='10'>Don't ask her! Do you want to send your mum to the …………….. ?</q>
+
+				<q id='5'>Doctors these days tend to be more ……………. about alternative medicine.</q>
+
+				<q id='1'>The press ……. the president about the country's involvement in the foreign war.</q>
+
+				<q id='12'>He really ………………….. when I asked him to reconsider.</q>
+
+				<q id='6'>……………….., you two! I don't want to see any more fighting.</q>
+
+				<q id='2'>If you lose your job, I'll lose mine, so we're both …………………...</q>
+
+				<q id='7'>I guess I can be ………. sometimes, but I really do appreciate your concern.</q>
+
+				<q id='3'>He wanted his mom to ………………….. about marriage</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>whistle a different tune</a>
+
+				<a id='1'>have a chip on your shoulder</a>
+
+				<a id='2'>get at</a>
+
+				<a id='3'>let bygones be bygones</a>
+
+				<a id='4'>dish out</a>
+
+				<a id='5'>take it</a>
+
+				<a id='6'>clear the air with</a>
+
+				<a id='7'>a wisecrack</a>
+
+				<a id='8'>settle accounts</a>
+
+				<a id='9'>old habits die hard</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>He made some …………… about my lack of culinary ability.</q>
+
+				<q id='3'>They decided to …………….. and made peace with each other.</q>
+
+				<q id='0'>He never used to support that political candidate, but he’s …… all of a sudden.</q>
+
+				<q id='1'>She still seems to …………….. about the argument she had with her partner.</q>
+
+				<q id='8'>Look, there are no …………………. with you or anything, so let's just let bygones be bygones, OK?</q>
+
+				<q id='4'>Ross is better at ………………. criticism than receiving it himself.</q>
+
+				<q id='5'>Tell me what you really thought of my play—be honest, I can …………!</q>
+
+				<q id='2'>Can you get to the point? I don't know what you're …………………!</q>
+
+				<q id='9'>A former police officer proved ……………. after detaining a violent teenager who attacked him.</q>
+
+				<q id='6'>The silent treatment isn't helping the situation between you two, so ……………. already.</q>
+
+		</questions>
+	</quiz>
 </bank>
