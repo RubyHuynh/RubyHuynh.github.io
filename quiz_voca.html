@@ -65,21 +65,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-2">
-							<div id="fh5co-logo"><a href="index.html">English<span>.</span></a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-								<li class="active"><a href="index.html">Home</a></li>
-								<li class="has-dropdown">
-									<a href="quiz.html">Quiz</a>
-									<ul class="dropdown">
-										<li><a href="quiz.html">Conversation Idioms</a></li>
-										<li><a href="quiz_voca.html">Academic Vocabulary</a></li>
-									</ul>
-								</li>
-								<li><a href="pomorodo.html">Pomorodo</a></li>
-								<li class="btn-cta"><a href="https://github.com/RubyHuynh?tab=repositories"><span>Github den</span></a></li>
-							</ul>
+							<div id="fh5co-logo"><a href="index.html">Home<span>.</span></a></div>
 						</div>
 					</div>
 
@@ -176,13 +162,13 @@
 			txt += "<h1>QUIZ " + i.toString() + " (" + (i + 14).toString() + ") "+ "</h1>";
 			txt += "<table>";
 			txt += "<tr><h2>Fill in the gaps with the appropriate expressions:</h2></tr>";
-			txt += "<td><ol>";
+			txt += "<tr><td><ol>";
 			for (j = 0; j < aLen; j++) {
 				txt += "<li><b>" + a[i].getElementsByTagName("a")[j].childNodes[0].nodeValue + "</b></li>";
             }
-			txt += "</ol></td>";
+			txt += "</ol></td></tr>";
 			
-			txt += "<td><ol type='a'>"
+			txt += "<tr><td><ol type='a'>"
 			for (j = 0; j < aLen; j++) {
 				txt += "<li>" + q[i].getElementsByTagName("q")[j].childNodes[0].nodeValue + "</li>";
 				txt += "<select id='qqq_" + j.toString() + "' onchange='choose("+ i.toString() + ", " + j.toString() + ",this.value)';>";
@@ -196,8 +182,8 @@
 				<!-- console.log(q[i].getElementsByTagName("q")[j].getAttribute('id')); -->
 				_answers[i][j] = q[i].getElementsByTagName("q")[j].getAttribute('id');
 			}
-			txt += "</ol></td>";
-			txt += "<td><div id='aaa_" + i.toString() + "'></div></td>";
+			txt += "</ol></td></tr>";
+			txt += "<tr><td><div id='aaa_" + i.toString() + "'></div></td></tr>";
 			txt += "</table>";
 			txt += "<center><input type='button' name='submit' value='SUBMIT' onclick='check("+i.toString()+");' /></center>";
 
