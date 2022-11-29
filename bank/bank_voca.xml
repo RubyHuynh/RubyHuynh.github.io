@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bank>
+	<quiz>
+		<answers>
+
+				<a id='0'>0  cram:  study in a very concentrated way for a short time</a>
+
+				<a id='1'>1  genius: an exceptionally clever person</a>
+
+				<a id='2'>2  past papers: exam papers from previous years</a>
+
+				<a id='3'>3  rote-learning: learning purely by repetition</a>
+
+				<a id='4'>4  mnemonic: /niˈmɒnɪks/ tricks that help you remember something</a>
+
+				<a id='5'>5  bury yourself into your books: spend the maximum time studying</a>
+
+				<a id='6'>6  intensively: in a very focused way</a>
+
+				<a id='7'>7  inside out: know it completely</a>
+
+				<a id='8'>8  off-by heart</a>
+
+				<a id='9'>9  revise</a>
+
+				<a id='10'>10 mind-map</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='5'>When I’m studying in a very focused way </q>
+
+				<q id='0'>because I’m preparing hard for an exam, </q>
+
+				<q id='2'>I don’t see any point in looking up exam papers from previous years</q>
+
+				<q id='7'>, nor is there any point in just learning things by memory. </q>
+
+				<q id='4'>I know some people develop very clever memory tricks to help them remember the material</q>
+
+				<q id='8'>, but there’s no real substitute for rereading and going over the term’s work. </q>
+
+				<q id='9'>It’s a good idea to have some sort of diagram showing different ideas to organise your thoughts</q>
+
+				<q id='3'>, and memory-learning is useful, but in a limited way. </q>
+
+				<q id='5'>At the end of the day, you just have to read a huge amount </q>
+
+				<q id='6'>until you feel you know the subject 100%.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>0  composition: could be just 50–100 words, oft en used for school work</a>
+
+				<a id='1'>1  essay: longer than a composition, more serious, hundreds or thousands of words</a>
+
+				<a id='2'>2  assignment: a long essay, oft en part of a course, usually thousands of words</a>
+
+				<a id='3'>3  project: like an assignment, but emphasis on student’s own material and topic</a>
+
+				<a id='4'>4  portfolio: a collection of individual pieces of work; may include drawings and other examples of creative work as well as writing</a>
+
+				<a id='5'>5  dissertation: a long, research-based work, perhaps 10–15,000 words, for a degree or diploma</a>
+
+				<a id='6'>6  thesis: a very long, original, research-based work, perhaps 80–100,000 words, for a higher degree (e.g. PhD)</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='6'>His PhD assignment was 90,000 words long and was on the history of US place names.</q>
+
+				<q id='0'>Little Martha did her first dissertation in school today. It was called ‘My family’.</q>
+
+				<q id='4'>We have to hand in an essay at the end of the course. It can consist of up to five different pieces of work.</q>
+
+				<q id='1'>The teacher gave us the title of this week’s project today. We have to write 1,000 words on the topic of ‘If I ruled the world’ and hand it in next Monday.</q>
+
+				<q id='2'>At the end of this course, you have to do a 5,000-word thesis which will be assessed, and the grade will contribute to your final degree.</q>
+
+				<q id='5'>I think I’ll do a study of people’s personal banking habits for my MSc composition. It has to be about 12,000 words.</q>
+
+				<q id='3'>I’ve chosen to do the portfolio instead of the two exams, because I like to do one single piece of</q>
+
+				<q id='0'>k where I can research something that interests me personally.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>0  plagiarism</a>
+
+				<a id='1'>1  a first draft</a>
+
+				<a id='2'>2  inter-library loan</a>
+
+				<a id='3'>3  a deadline</a>
+
+				<a id='4'>4  drop out</a>
+
+				<a id='5'>5  submit; assess</a>
+
+				<a id='6'>6  a paper; in (academic) journals</a>
+
+				<a id='7'>7  a genius</a>
+
+				<a id='8'>8  carry out research</a>
+
+				<a id='9'>9  feedback</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='7'>What word can you use for a person who is extraordinarily intelligent?</q>
+
+				<q id='3'>What word means ‘the date by which you must do something’?</q>
+
+				<q id='5'>What are more formal words for ‘to hand in’ and for ‘to mark’?</q>
+
+				<q id='6'>What is another word for an academic article? Where can you read them?</q>
+
+				<q id='1'>What do we call the first attempt at writing something, e.g. an essay?</q>
+
+				<q id='2'>What is the name of the system for getting books from other libraries?</q>
+
+				<q id='4'>What phrasal verb do we use when someone doesn’t complete their course?</q>
+
+				<q id='0'>What word means ‘using someone else’s ideas as if they were yours’?</q>
+
+				<q id='9'>What word means ‘the comments you get back from the teacher about your work’?</q>
+
+				<q id='8'>What is a more formal way of saying ‘do research’?</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>0  acknowledge</a>
+
+				<a id='1'>1  inside</a>
+
+				<a id='2'>2  well-qualified</a>
+
+				<a id='3'>3  access</a>
+
+				<a id='4'>4  revision</a>
+
+				<a id='5'>5  resources</a>
+
+				<a id='6'>6  plagiarism</a>
+
+				<a id='7'>7  paper</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='0'>If you quote an article in an essay, you must ... your source, giving details of author and title.</q>
+
+				<q id='5'>Open educational ... can be particularly useful for students who do not have easy access to a university library.</q>
+
+				<q id='4'>How much .... have you done for tomorrow’s maths exam?</q>
+
+				<q id='6'>Don’t forget to sign the .... form and hand it in with your dissertation.</q>
+
+				<q id='2'>Some people take a long time to find suitable work even though they are very .....</q>
+
+				<q id='7'>Orla has had a .... published in the British Medical Journal.</q>
+
+				<q id='3'>All students need a username and password to be able to ... journals online.</q>
+
+				<q id='1'>Caspar is bound to do well in his mechanics exam – he knows the subject ..... out.</q>
+
+		</questions>
+	</quiz>
+</bank>
