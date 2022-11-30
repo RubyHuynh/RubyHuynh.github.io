@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <bank>
-	<quiz>
+		<quiz>
 		<answers>
 
-				<a id='0'>  cram:  study in a very concentrated way for a short time</a>
+				<a id='0'>0  cram:  study in a very concentrated way for a short time</a>
 
-				<a id='1'>  past papers: exam papers from previous years</a>
+				<a id='1'>1  genius: an exceptionally clever person</a>
 
-				<a id='2'>  rote-learning: learning purely by repetition</a>
+				<a id='2'>2  past papers: exam papers from previous years</a>
 
-				<a id='3'>  mnemonic: /niˈmɒnɪks/ tricks that help you remember something</a>
+				<a id='3'>3  rote-learning: learning purely by repetition</a>
 
-				<a id='4'>  bury yourself into your books: spend the maximum time studying</a>
+				<a id='4'>4  mnemonic: /niˈmɒnɪks/ tricks that help you remember something</a>
 
-				<a id='5'>  intensively: in a very focused way</a>
+				<a id='5'>5  bury yourself into your books: spend the maximum time studying</a>
 
-				<a id='6'>  inside out: know it completely</a>
+				<a id='6'>6  intensively: in a very focused way</a>
 
-				<a id='7'>  off-by heart</a>
+				<a id='7'>7  inside out: know it completely</a>
 
-				<a id='8'>  revise</a>
+				<a id='8'>8  off-by heart</a>
 
-				<a id='9'> mind-map</a>
+				<a id='9'>9  revise</a>
+
+				<a id='10'>10 mind-map</a>
 
 		</answers>
 
@@ -32,19 +34,19 @@
 
 				<q id='0'>because I’m preparing hard for an exam, </q>
 
-				<q id='1'>I don’t see any point in looking up exam papers from previous years</q>
+				<q id='2'>I don’t see any point in looking up exam papers from previous years</q>
 
-				<q id='2'>, nor is there any point in just learning things by memory. </q>
+				<q id='7'>, nor is there any point in just learning things by memory. </q>
 
-				<q id='3'>I know some people develop very clever memory tricks to help them remember the material</q>
+				<q id='4'>I know some people develop very clever memory tricks to help them remember the material</q>
 
 				<q id='8'>, but there’s no real substitute for rereading and going over the term’s work. </q>
 
 				<q id='9'>It’s a good idea to have some sort of diagram showing different ideas to organise your thoughts</q>
 
-				<q id='7'>, and memory-learning is useful, but in a limited way. </q>
+				<q id='3'>, and memory-learning is useful, but in a limited way. </q>
 
-				<q id='4'>At the end of the day, you just have to read a huge amount </q>
+				<q id='5'>At the end of the day, you just have to read a huge amount </q>
 
 				<q id='6'>until you feel you know the subject 100%.</q>
 
@@ -53,19 +55,19 @@
 	<quiz>
 		<answers>
 
-				<a id='0'>  composition: could be just 50–100 words, oft en used for school work</a>
+				<a id='0'>0  composition: could be just 50–100 words, oft en used for school work</a>
 
-				<a id='1'>  essay: longer than a composition, more serious, hundreds or thousands of words</a>
+				<a id='1'>1  essay: longer than a composition, more serious, hundreds or thousands of words</a>
 
-				<a id='2'>  assignment: a long essay, oft en part of a course, usually thousands of words</a>
+				<a id='2'>2  assignment: a long essay, oft en part of a course, usually thousands of words</a>
 
-				<a id='3'>  project: like an assignment, but emphasis on student’s own material and topic</a>
+				<a id='3'>3  project: like an assignment, but emphasis on student’s own material and topic</a>
 
-				<a id='4'>  portfolio: a collection of individual pieces of work; may include drawings and other examples of creative work as well as writing</a>
+				<a id='4'>4  portfolio: a collection of individual pieces of work; may include drawings and other examples of creative work as well as writing</a>
 
-				<a id='5'>  dissertation: a long, research-based work, perhaps 10–15,000 words, for a degree or diploma</a>
+				<a id='5'>5  dissertation: a long, research-based work, perhaps 10–15,000 words, for a degree or diploma</a>
 
-				<a id='6'>  thesis: a very long, original, research-based work, perhaps 80–100,000 words, for a higher degree (e.g. PhD)</a>
+				<a id='6'>6  thesis: a very long, original, research-based work, perhaps 80–100,000 words, for a higher degree (e.g. PhD)</a>
 
 		</answers>
 
@@ -83,32 +85,34 @@
 
 				<q id='5'>I think I’ll do a study of people’s personal banking habits for my MSc composition. It has to be about 12,000 words.</q>
 
-				<q id='3'>I’ve chosen to do the portfolio instead of the two exams, because I like to do one single piece of work where I can research something that interests me personally.</q>
+				<q id='3'>I’ve chosen to do the portfolio instead of the two exams, because I like to do one single piece of</q>
+
+				<q id='0'>k where I can research something that interests me personally.</q>
 
 		</questions>
 	</quiz>
 	<quiz>
 		<answers>
 
-				<a id='0'> plagiarism</a>
+				<a id='0'>0  plagiarism</a>
 
-				<a id='1'> a first draft</a>
+				<a id='1'>1  a first draft</a>
 
-				<a id='2'>  inter-library loan</a>
+				<a id='2'>2  inter-library loan</a>
 
-				<a id='3'>  a deadline</a>
+				<a id='3'>3  a deadline</a>
 
-				<a id='4'>  drop out</a>
+				<a id='4'>4  drop out</a>
 
-				<a id='5'>  submit; assess</a>
+				<a id='5'>5  submit; assess</a>
 
-				<a id='6'>  a paper; in (academic) journals</a>
+				<a id='6'>6  a paper; in (academic) journals</a>
 
-				<a id='7'>  a genius</a>
+				<a id='7'>7  a genius</a>
 
-				<a id='8'>  carry out research</a>
+				<a id='8'>8  carry out research</a>
 
-				<a id='9'>  feedback</a>
+				<a id='9'>9  feedback</a>
 
 		</answers>
 
@@ -139,20 +143,21 @@
 	<quiz>
 		<answers>
 
-				<a id='0'>  acknowledge</a>
+				<a id='0'>0  acknowledge</a>
 
-				<a id='1'>  inside</a>
+				<a id='1'>1  inside</a>
 
-				<a id='2'>  well-qualified</a>
+				<a id='2'>2  well-qualified</a>
 
-				<a id='3'>  access</a>
-				<a id='4'>  revision</a>
+				<a id='3'>3  access</a>
 
-				<a id='5'>  resources</a>
+				<a id='4'>4  revision</a>
 
-				<a id='6'>  plagiarism</a>
+				<a id='5'>5  resources</a>
 
-				<a id='7'>  paper</a>
+				<a id='6'>6  plagiarism (/ˈpleɪ.dʒɚ.ɪ.zəm/)</a>
+
+				<a id='7'>7  paper</a>
 
 		</answers>
 
@@ -173,6 +178,117 @@
 				<q id='3'>All students need a username and password to be able to ... journals online.</q>
 
 				<q id='1'>Caspar is bound to do well in his mechanics exam – he knows the subject ..... out.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>selective education</a>
+
+				<a id='1'>league tables</a>
+
+				<a id='2'>equality of opportunity</a>
+
+				<a id='3'>perpetuate (/pɚˈpetʃ.u.əl/) inequalities</a>
+
+				<a id='4'>tertiary education</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='1'>tables (lists of schools from best to worst)</q>
+
+				<q id='0'>education (entry to schools is decided by exam results)</q>
+
+				<q id='2'>equality of (when everyone has the same chances)</q>
+
+				<q id='3'>inequalities (make inequalities continue)</q>
+
+				<q id='4'>education (at university or college level)</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>Elitism (/iˈliː.tɪ.zəm/)</a>
+
+				<a id='1'>excel ( /ɪkˈsel/)</a>
+
+				<a id='2'>well-endow/have endowments (/ɪnˈdaʊ.mənt/)</a>
+
+				<a id='3'>comprehensive education (/ˌkɑːm.prəˈhen.sɪv/)</a>
+
+				<a id='4'>inherent in (/ɪnˈhɪr.ənt/) (existing as a natural and permanent quality of something or someone)</a>
+
+				<a id='5'>Two-tier system, depress, less well-off, better-off</a>
+
+				<a id='6'>tertirary (/ˈtɝː.ʃi.er.i/) education</a>
+
+				<a id='7'>perceive (/pəˈsiːv/)</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>Inequality is <i>built into</i> the education system.</q>
+
+				<q id='0'><i>Giving access only to privileged groups</i> is bad for the country in the long term.</q>
+
+				<q id='3'><i>Education where everyone gets into the same type of school without exams</i> is a basic political ideal in many countries.</q>
+
+				<q id='5'>A <i>system where there are two levels</i> of schools <i>reduces</i> the opportunities for children from <i>poorer </i> families and favours those from <i>richer</i> families.</q>
+
+				<q id='2'>Some private schools <i>have lots of wealth and receive gifts of money</i>, and this means they can have better resources.</q>
+
+				<q id='1'>All parents want their children to <i>achieve the best possible results</i> at school.</q>
+
+				<q id='7'>Emphasis on the three Rs is <i>considered</i> by parents to be the key to success.</q>
+
+				<q id='6'>The government is increasing its provision for <i>education that young people can enter after finishing secondary school</i>.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>distraction</a>
+
+				<a id='1'>mature</a>
+
+				<a id='2'>guidelines</a>
+
+				<a id='3'>fees</a>
+
+				<a id='4'>one-to-one</a>
+
+				<a id='5'>three</a>
+
+				<a id='6'>loan</a>
+
+				<a id='7'>scholarship</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='6'>Matt won a ... because of his excellent academic record.</q>
+
+				<q id='0'>Zara’s parents said that starting a rock band with her friends would be too much of a ... from her studies.</q>
+
+				<q id='2'>The report contains some interesting ... on how best to prepare for exams.</q>
+
+				<q id='1'>There were two ... students in my class at university, but most of us were just 19.</q>
+
+				<q id='3'>Katia wouldn’t have been able to go to university if her grandparents hadn’t paid her tuition ... for her.</q>
+
+				<q id='6'>Most undergraduates need to take out a student .... to cover their costs while they study for a degree.</q>
+
+				<q id='5'>Primary schools usually spend a lot of time on the ..... Rs.</q>
+
+				<q id='4'>At university I was lucky enough to have a lot of ..... tutorials, just me and the tutor!</q>
 
 		</questions>
 	</quiz>
