@@ -228,21 +228,21 @@
 
 		<questions>
 
-				<q id='4'>Inequality is <i>built into</i> the education system.</q>
+				<q id='4'>Inequality is *built into* the education system.</q>
 
-				<q id='0'><i>Giving access only to privileged groups</i> is bad for the country in the long term.</q>
+				<q id='0'>*Giving access only to privileged groups* is bad for the country in the long term.</q>
 
-				<q id='3'><i>Education where everyone gets into the same type of school without exams</i> is a basic political ideal in many countries.</q>
+				<q id='3'>*Education where everyone gets into the same type of school without exams* is a basic political ideal in many countries.</q>
 
-				<q id='5'>A <i>system where there are two levels</i> of schools <i>reduces</i> the opportunities for children from <i>poorer </i> families and favours those from <i>richer</i> families.</q>
+				<q id='5'>A *system where there are two levels* of schools *reduces* the opportunities for children from *poorer * families and favours those from *richer* families.</q>
 
-				<q id='2'>Some private schools <i>have lots of wealth and receive gifts of money</i>, and this means they can have better resources.</q>
+				<q id='2'>Some private schools *have lots of wealth and receive gifts of money*, and this means they can have better resources.</q>
 
-				<q id='1'>All parents want their children to <i>achieve the best possible results</i> at school.</q>
+				<q id='1'>All parents want their children to *achieve the best possible results* at school.</q>
 
-				<q id='7'>Emphasis on the three Rs is <i>considered</i> by parents to be the key to success.</q>
+				<q id='7'>Emphasis on the three Rs is *considered* by parents to be the key to success.</q>
 
-				<q id='6'>The government is increasing its provision for <i>education that young people can enter after finishing secondary school</i>.</q>
+				<q id='6'>The government is increasing its provision for *education that young people can enter after finishing secondary school*.</q>
 
 		</questions>
 	</quiz>
