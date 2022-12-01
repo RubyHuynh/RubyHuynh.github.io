@@ -287,4 +287,160 @@
 
 		</questions>
 	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>healthcare</a>
+
+				<a id='1'>team</a>
+
+				<a id='2'>yours</a>
+
+				<a id='3'>competitive</a>
+
+				<a id='4'>challenging</a>
+
+				<a id='5'>communication</a>
+
+				<a id='6'>online</a>
+
+				<a id='7'>lead</a>
+
+				<a id='8'>career</a>
+
+				<a id='9'>cover</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='2'>faithfully</q>
+
+				<q id='8'>prospects  (/ˈprɑː.spekt/)</q>
+
+				<q id='0'>plan</q>
+
+				<q id='7'>a team</q>
+
+				<q id='6'>application</q>
+
+				<q id='4'>role</q>
+
+				<q id='9'>letter</q>
+
+				<q id='1'>player</q>
+
+				<q id='5'>skills</q>
+
+				<q id='3'>salary</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>hands-on</a>
+
+				<a id='1'>full training</a>
+
+				<a id='2'>managerial experience (/ˌmæn.əˈdʒɪr.i.əl/)</a>
+
+				<a id='3'>stand out</a>
+
+				<a id='4'>openings (or posts or roles)</a>
+
+				<a id='5'>field</a>
+
+				<a id='6'>subsidised meals (/ˈsʌb.sə.daɪzd/)</a>
+
+				<a id='7'>benefits package</a>
+
+				<a id='8'>previous experience</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='8'>You don’t need *to have done this job before.*</q>
+
+				<q id='6'>As part of my new job, I get *meals partly paid for by the company.*</q>
+
+				<q id='3'>It’s really important to make your application *look different from all the others.*</q>
+
+				<q id='0'>Working in the factory over the summer gave me some *direct* experience of manufacturing.</q>
+
+				<q id='5'>I’m hoping to work in the *area* of automotive manufacturing.</q>
+
+				<q id='4'>Prism Consulting has a number of *positions* available for graduates.</q>
+
+				<q id='1'>The ad said the company will provide *all the training you need*.</q>
+
+				<q id='2'>You should only apply for the job if you have *led a team before*.</q>
+
+				<q id='7'>The salary isn’t great, but they offer an attractive *set of other advantages*</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>carried out (done)</a>
+
+				<a id='1'>relevant to (connected to)</a>
+
+				<a id='2'>passion for</a>
+
+				<a id='3'>suitable for</a>
+
+				<a id='4'>support of</a>
+
+				<a id='5'>role as; reported to</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>I am sending my CV in ... my application for the position of sales team leader.</q>
+
+				<q id='2'>I have a ... sales.</q>
+
+				<q id='1'>Jakob’s experience is more .... the job than Sylvana’s.</q>
+
+				<q id='5'>In my previous .... Sales Representative, I .... the Sales Manager.</q>
+
+				<q id='0'>While working as a Customer Service Assistant, I also .... some research projects for the marketing department.</q>
+
+				<q id='3'>He only has 6 months’ experience as a trainee. I don’t think that makes him ... the job of quality manager.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>team player</a>
+
+				<a id='1'>Dear Sir or Madam</a>
+
+				<a id='2'>post, opening, role, position</a>
+
+				<a id='3'>fast-paced</a>
+
+				<a id='4'>customer-facing</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>What do we call a job which deals directly with the customers?</q>
+
+				<q id='0'>How can we describe someone who works well with other people?</q>
+
+				<q id='1'>How should you start a letter to someone whose name you don’t know?</q>
+
+				<q id='2'>What four other words can be used instead of ‘job’ in an advertisement?</q>
+
+				<q id='3'>How can we describe a working environment which is busy and rapidly changing?</q>
+
+		</questions>
+	</quiz>
 </bank>
