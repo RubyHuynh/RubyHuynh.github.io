@@ -443,4 +443,132 @@
 
 		</questions>
 	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>body language; boost</a>
+
+				<a id='1'>firm handshake; eye contact</a>
+
+				<a id='2'>trial run</a>
+
+				<a id='3'>do ... homework</a>
+
+				<a id='4'>first impression</a>
+
+				<a id='5'>criteria</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='3'>Before the interview, ... your ....: find out as much as you can about the company and prepare answers to common interview questions.</q>
+
+				<q id='2'>If you can, do a .... to practise how you will answer the interview questions.</q>
+
+				<q id='4'>You need to create a good .... with the interviewers. Dress smartly and professionally.</q>
+
+				<q id='0'>Remember that your ... also plays an important part. Don’t forget to smile! This will make you seem more friendly, and might actually .... your confidence too.</q>
+
+				<q id='1'>Make sure you greet your interviewer with a ..... Make ....when you talk to them – look at them directly.</q>
+
+				<q id='5'>During the interview, describe all your relevant education and experience to show how you fulfil all the ... for the job.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>recruiting</a>
+
+				<a id='1'>fill</a>
+
+				<a id='2'>on</a>
+
+				<a id='3'>professional development</a>
+
+				<a id='4'>speak up</a>
+
+				<a id='5'>under pressure</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>I’m afraid you’ll have to speak up / eye up / head up. I can hardly hear what you’re saying.</q>
+
+				<q id='0'>We are taking / recruiting / searching people for our new branch in the city centre.</q>
+
+				<q id='1'>If we can’t fill / fulfil / supply the post internally, we’ll have to advertise externally.</q>
+
+				<q id='2'>If I get the new job, I will have to take up / over / on more responsibility, but I will get a salary increase.</q>
+
+				<q id='5'>I don’t like working under pressure / under stress / by force. I end up making mistakes.</q>
+
+				<q id='3'>As part of the programme of reporting structure / professional development / notice period, we would like to invite you to a session on project management</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>offer the position; an ideal fit</a>
+
+				<a id='1'>panel</a>
+
+				<a id='2'>shortlisted</a>
+
+				<a id='3'>(paid) leave</a>
+
+				<a id='4'>talk us through</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='4'>Could you *tell us about* your previous experience in this field?</q>
+
+				<q id='0'>I think we should *give the job* to Ruth. She seems *perfectly suited to the team.*</q>
+
+				<q id='3'>Employees are entitled to 30 days’ *holiday.*</q>
+
+				<q id='1'>The *group of interviewers* will include your future line manager.</q>
+
+				<q id='2'>They just called me to say I have been *chosen (as one of the best candidates)* for an interview.</q>
+
+		</questions>
+	</quiz>
+	<quiz>
+		<answers>
+
+				<a id='0'>superior-- supervisor</a>
+
+				<a id='1'>overviewing-- outlining</a>
+
+				<a id='2'>trainer-- trainee</a>
+
+				<a id='3'>leaving-- notice</a>
+
+				<a id='4'>begin-- start</a>
+
+				<a id='5'>in-office-- in-house</a>
+
+		</answers>
+
+		<questions>
+
+				<q id='1'>Please find attached a document overviewing your working conditions.</q>
+
+				<q id='3'>In some companies the leaving period can be as much as six months.</q>
+
+				<q id='0'>I’m going to be working as a superior, in charge of a team of 4 people.</q>
+
+				<q id='5'>The company doesn’t do any in-office training. It’s all done externally.</q>
+
+				<q id='4'>My begin date for the new job is 1 July.</q>
+
+				<q id='2'>I’m a trainer accountant. I haven’t passed my qualifying exams yet.</q>
+
+		</questions>
+	</quiz>
 </bank>
