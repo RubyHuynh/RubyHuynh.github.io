@@ -55,7 +55,16 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-	
+		<style>
+		iframe{
+			display: block;  /* iframes are inline by default */
+			height: 100vh;  /* Set height to 100% of the viewport height */
+			width: 100vw;  /* Set width to 100% of the viewport width */
+			border: none; /* Remove default border */
+			background: lightyellow; /* Just for styling */
+		    }
+		
+		</style>
 	</head>
 	<body>
 		
@@ -78,11 +87,11 @@
 				<div class="text-left">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn" id='_list'>
-						<h1>	LISTEN AND SPEAK </h1>
+<h1> LET'S LISTEN & SPEAK </h1>
 <input type="text" width="70%" id="youtube-url" placeholder="Enter a YouTube ID here" value="RwwgbVHE8Dk">
 <button id="reload-video">Reload Video</button>
-							<br/>
-iframe id="video-player" width="90%" height="550" frameborder="0" allowfullscreen 
+<br/>
+<iframe id="video-player" frameborder="0" allowfullscreen 
         src="https://www.youtube.com/embed/RwwgbVHE8Dk?cc_load_policy=1">
      </iframe>
 							
