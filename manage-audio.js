@@ -47,11 +47,6 @@ function startRecording() {
                 downloadAudio.href = url;
             };
             recorder.start();
-
-            timeout_status = setTimeout(function () {
-                console.log("5 min timeout");
-                stopRecording();
-            }, 300000);
         });
 }
 
