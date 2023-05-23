@@ -89,9 +89,9 @@
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn" id='_list'>
 							
 <h1> LET'S LISTEN & SPEAK </h1>
-<input type="text" style="width: 70%;" id="youtube-url" placeholder="Enter a YouTube URL here" value="https://www.youtube.com/watch?v=Jsj-hDW9bS8">
-<button id="reload-video">Reload Video</button>
-
+<input type="text" style="width: 65%;" id="youtube-url" placeholder="Enter a YouTube URL here (must have 'v=')" value="https://www.youtube.com/watch?v=Jsj-hDW9bS8">
+<button id="reload-video">Go</button>
+<button id="clear-video">Clear</button>
 <br/>
 <iframe id="video-player" frameborder="0" allowfullscreen 
         src="https://www.youtube.com/embed/sj8pFX9SOXE?cc_load_policy=1">
@@ -101,8 +101,17 @@
 <script>
 const youtubeUrlInput = document.getElementById("youtube-url");
 const reloadVideoButton = document.getElementById("reload-video");
+const clearVideoButton = document.getElementById("clear-video");
+const clearAreaButton = document.getElementById("clear-area");
 const videoPlayer = document.getElementById("video-player");
 
+
+clearVideoButton.onclick = () => {
+  youtubeUrlInput.value="";
+};
+clearAreaButton.onclick = () => {
+  document.getElementById("area").value = "";
+};
 reloadVideoButton.onclick = () => {
   const youtubeUrl = youtubeUrlInput.value;
   var video_id = youtubeUrl.split('v=')[1];
@@ -117,7 +126,8 @@ reloadVideoButton.onclick = () => {
 };
 </script>
 </br>	
-						<textarea name="Text1" style="width: 100%;" cols="120" rows="10"></textarea>
+						<textarea name="Text1" style="width: 70%;" cols="120" rows="10"></textarea>
+						<button id="clear-area">Clear</button>
 						</br>
 <iframe src= "record.html"></iframe>
 						</div>
