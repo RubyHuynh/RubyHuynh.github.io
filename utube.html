@@ -89,7 +89,7 @@
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn" id='_list'>
 							
 <h1> LET'S LISTEN & SPEAK </h1>
-<input type="text" width="70%" id="youtube-url" placeholder="Enter a YouTube ID here" value="RwwgbVHE8Dk">
+<input type="text" width="70%" id="youtube-url" placeholder="Enter a YouTube URL here" value="https://www.youtube.com/watch?v=Jsj-hDW9bS8">
 <button id="reload-video">Reload Video</button>
 
 <br/>
@@ -105,8 +105,13 @@ const videoPlayer = document.getElementById("video-player");
 
 reloadVideoButton.onclick = () => {
   const youtubeUrl = youtubeUrlInput.value;
+  var video_id = youtubeUrl.split('v=')[1];
+  var ampersandPosition = video_id.indexOf('&');
+  if(ampersandPosition != -1) {
+    video_id = video_id.substring(0, ampersandPosition);
+  }
   if (youtubeUrl) {
-    videoPlayer.src = `https://www.youtube.com/embed/${youtubeUrl}?cc_load_policy=1`;
+    videoPlayer.src = `https://www.youtube.com/embed/${video_id}?cc_load_policy=1`;
     videoPlayer.style.display = "block";
   }
 };
