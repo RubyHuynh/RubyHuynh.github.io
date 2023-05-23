@@ -79,11 +79,29 @@
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn" id='_list'>
 						<h1>	LISTEN AND SPEAK </h1>
-
+<input type="text" id="youtube-url" placeholder="Enter a YouTube ID here" value="RwwgbVHE8Dk">
+<button id="reload-video">Reload Video</button>
 <iframe width="800" height="550"
         src="https://www.youtube.com/embed/RwwgbVHE8Dk?cc_load_policy=1">
      </iframe>
+							
+<br>
+<iframe id="video-player" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<script>
+const youtubeUrlInput = document.getElementById("youtube-url");
+const reloadVideoButton = document.getElementById("reload-video");
+const videoPlayer = document.getElementById("video-player");
+
+reloadVideoButton.onclick = () => {
+  const youtubeUrl = youtubeUrlInput.value;
+  if (youtubeUrl) {
+    videoPlayer.src = `https://www.youtube.com/embed/${youtubeUrl}?cc_load_policy=1`;
+    videoPlayer.style.display = "block";
+  }
+};
+</script>
      </br>
+						
      <iframe width="800" height="550"
 	src= "record.html">
      </iframe>
