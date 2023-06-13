@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+	<quiz>
+		<answers>
+			<a> by reason of, on account of </a>
+			<a> at home in/with, familiar with </a>
+			<a> at the time of, in the days of </a>
+			<a> at variance with, in opposition to, in contrast to </a>
+			<a> at enmity with, hostile to </a>
+			<a> by the power of, by force of </a>
+			<a> by the side of </a>
+			<a> by means of </a>
+			<a> at the top of </a>
+			<a> at the point of </a>
+		</answers>
+
+		<questions>
+			<q id="4">The rivals are .... us.</q>
+			<q id="1">He is quite .... business management.</q>
+			<q id="9">The air plane is ..... taking off.</q>
+			<q id="8">He shouted .... of his voice.</q>
+			<q id="2">There couldn't be machine guns .... Napoleon.</q>
+			<q id="3">Your words are ... the facts.</q>
+			<q id="5">The country was finally subdued .... arms.</q>
+			<q id="6">The dog is sleeping ... its master.</q>
+			<q id="7">He recovered his health quickly .... sea-air.</q>
+			<q id="0">... his many years of experience in this field, he is the best man for the job.</q>
+		</questions>
+	</quiz>
+</bank>	
