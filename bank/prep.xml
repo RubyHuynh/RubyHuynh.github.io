@@ -27,4 +27,25 @@
 			<q id="0">... his many years of experience in this field, he is the best man for the job.</q>
 		</questions>
 	</quiz>
+	<quiz>
+		<answers>
+			<a> for fear of </a>
+			<a> for lack of </a>
+			<a> by virtue of, by the authority of </a>
+			<a> by way of </a>
+			<a> in addition to </a>
+			<a> for the purpose of, with the aim of </a>
+			<a> in accordance with, in agreement with, in compliance with, in keeping with, in unison with, in harmony with, in conformity with </a>
+		</answers>
+
+		<questions>
+			<q id="2">You can persuade him .... your well-known wisdom.</q>
+			<q id="3">They entered Italy .... Southern France.</q>
+			<q id="0">I chose to say nothing ... saying the wrong things.</q>
+			<q id="1">The crop failed ... seasonable rain.</q>
+			<q id="5">He studied Chinese ... enlarging his knowledge.</q>
+			<q id="4">... his regular job here. he works for the company as a secretary.</q>
+			<q id="6">Your actions are not ... our regulations.</q>
+		</questions>
+	</quiz>
 </bank>	
