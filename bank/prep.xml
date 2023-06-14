@@ -48,4 +48,140 @@
 			<q id="6">Your actions are not ... our regulations.</q>
 		</questions>
 	</quiz>
+	
+	
+	<quiz>
+		<answers>
+			<a> in comparison with </a>
+			<a> in common with </a>
+			<a> in connection with </a>
+			<a> in care of, in the custody of </a>
+			<a> in case of, in the event of </a>
+			<a> in consequence of, as a result of </a>
+			<a> in consideration of, in view of </a>
+			<a> in contrast to/with, in sharp contrast with </a>
+		</answers>
+
+		<questions>
+			<q id="3">She leaves her children ... her old mothers.</q>
+			<q id="4">I have kept a reserved fund ... accidents.</q>
+			<q id="1">... most educated people, he prefers classical music to jazz.</q>
+			<q id="0">... his brothers, he is quite easy to get along with.</q>
+			<q id="2">Tell me all you know ... that matter.</q>
+			<q id="5">... the war, many families are in mourning.</q>
+			<q id="6">... his hardwork, I suggest he be given another chance.</q>
+			<q id="7">.... his earlier attitude, he is now very friendly and cooperative.</q>
+		</questions>
+	</quiz>
+	
+	
+	
+	
+	
+	
+	<quiz>
+		<answers>
+			<a> in honor of </a>
+			<a> in lieu of, in place of </a>
+			<a> in deference to, out of respect for </a>
+			<a> in the course of </a>
+			<a> in exchange for, in return for </a>
+			<a> in defence of </a>
+			<a> in defiance of, in the face of, in the teeth of, in the presence of </a>
+			<a> in favor of, in sympathy with, in the interest of, for the sake of, for the good of, to the advantage of </a>
+		</answers>
+
+		<questions>
+			<q id="3">... our conversation, the lights went out.</q>
+			<q id="5">He said all he could ... his client.</q>
+			<q id="6">He jumped into the river ... the law.</q>
+			<q id="2">... his guests, he avoided any discussion of religion or politics.</q>
+			<q id="4">... a close cooperation, we should exhibit our sincerity.</q>
+			<q id="0">The day was kept as a public holiday ... victory.</q>
+			<q id="7">He was ... votes for women.</q>
+			<q id="1">.... the money he owed us, we received only promises to pay.</q>
+		</questions>
+	</quiz>
+			
+	<quiz>
+		<answers>
+			<a> in quest of, in search of </a>
+			<a> in the guise of </a>
+			<a> in pursuance of </a>
+			<a> in the hope of </a>
+			<a> in proportion to </a>
+			<a> in opposition to, in constrast to </a>
+			<a> in sight of </a>
+			<a> in preference to </a>
+			<a> on behalf of </a>
+			<a> on the brink of </a>
+			<a> on the eve of </a>
+		</answers>
+
+		<questions>
+			<q id="5">What you've done is ... my wishes.</q>
+			<q id="2">He was ready to do anything ... that subject.</q>
+			<q id="0">They went there ... gold.</q>
+			<q id="7">Through personal influence, he was given a job ... several more experienced men.</q>
+			<q id="6">We have now come ... land.</q>
+			<q id="1">He went there ... a farmer.</q>
+			<q id="3">He tried again ... succeeding next time.</q>
+			<q id="4">She is clever than you are .... your age.</q>
+			<q id="8">... people in our city, I'm glad to extend a wram greeting and welcome to all of you.</q>
+			<q id="9">The region is ... serious disaster.</q>
+			<q id="10">He died ... victory.</q>
+		</questions>
+	</quiz>
+			
+	<quiz>
+		<answers>
+			<a> with a view to </a>
+			<a> with the intention to </a>
+			<a> with an eye to, in prospect of </a>
+			<a> with reference to, wih regard to, with respect to </a>
+			<a> on the grounds of, on the score of </a>
+			<a> on pretence of </a>
+			<a> under cover of </a>
+		</answers>
+
+		<questions>
+			<q id="4">He declined the invitation ... a previous engagement.</q>
+			<q id="5">His evil deeds were done ... religion.</q>
+			<q id="6">They escaped ... darkness.</q>
+			<q id="0">I have said all there is to be said ... proving his innocence</q>
+			<q id="2">Men plough and sow ... the coming harvest.</q>
+			<q id="3">... your last letter. we wish you to inform you that shipment will be made promptly.</q>
+			<q id="1">I went downtown ... buying some new books.</q>
+		</questions>
+	</quiz>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<quiz>
+		<answers>
+			<a> as against </a>
+			<a> according to </a>
+			<a> as between </a>
+			<a> alongside of </a>
+			<a> along with </a>
+			<a> ahead of </a>
+			<a> apart from </a>
+		</answers>
+
+		<questions>
+			<q id="1">... the weatherman, we can expect cold weather this week.</q>
+			<q id="5">You should have told us ... time that you were coming.</q>
+			<q id="3">I parked my car ... a gray station wagon.</q>
+			<q id="4">We have to take physical education ... all the academic courses.</q>
+			<q id="6">The new house stands ... all the other houses in street because of its size and style.</q>
+			<q id="0">... all members of his family, he is loved by all of his neighbors.</q>
+			<q id="2">... classical music and pop, I much prefer the former.</q>
+		</questions>
+	</quiz>
 </bank>	
