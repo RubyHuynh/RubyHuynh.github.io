@@ -84,7 +84,7 @@
 			<a> in honor of </a>
 			<a> in lieu of, in place of </a>
 			<a> in deference to, out of respect for </a>
-			<a> in the course of </a>
+			<a> in the course , during </a>
 			<a> in exchange for, in return for </a>
 			<a> in defence of </a>
 			<a> in defiance of, in the face of, in the teeth of, in the presence of </a>
@@ -113,7 +113,7 @@
 			<a> in opposition to, in constrast to </a>
 			<a> in sight of </a>
 			<a> in preference to </a>
-			<a> on behalf of </a>
+			<a> on behalf of, as a representative of </a>
 			<a> on the brink of </a>
 			<a> on the eve of </a>
 		</answers>
@@ -141,7 +141,7 @@
 			<a> with reference to, wih regard to, with respect to </a>
 			<a> on the grounds of, on the score of </a>
 			<a> on pretence of </a>
-			<a> under cover of </a>
+			<a> under cover of, protected by, concealed by </a>
 		</answers>
 
 		<questions>
@@ -155,15 +155,22 @@
 		</questions>
 	</quiz>
 	
+	
+	
+	
+	
+	
+	
+	
 	<quiz>
 		<answers>
-			<a> as against </a>
-			<a> according to </a>
-			<a> as between </a>
-			<a> alongside of </a>
-			<a> along with </a>
-			<a> ahead of </a>
-			<a> apart from </a>
+			<a> as against, in constrast with </a>
+			<a> according to, on the authority of</a>
+			<a> as between</a>
+			<a> alongside of, parallel with </a>
+			<a> along with, together with </a>
+			<a> ahead of, before, in front of </a>
+			<a> apart from, separate from </a>
 		</answers>
 
 		<questions>
@@ -176,21 +183,19 @@
 			<q id="2">... classical music and pop, I much prefer the former.</q>
 		</questions>
 	</quiz>
-	
-	
 	<quiz>
 		<answers>
-			<a> what with </a>
-			<a> due to </a>
-			<a> prior to, previous to </a>
-			<a> independently of </a>
+			<a> what with, between various reasons </a>
+			<a> due to, owning to, because of </a>
+			<a> prior to, previous to, before </a>
+			<a> independently of, without dependence on </a>
 			<a> as for </a>
-			<a> except for </a>
-			<a> outside of </a>
+			<a> except for, with the exception of </a>
+			<a> outside of, besides </a>
 			<a> relating to </a>
-			<a> regardless of </a>
-			<a> in between </a>
-			<a> instead of/a>
+			<a> regardless of, without reagarding </a>
+			<a> in between, in the time between, in the area between</a>
+			<a> instead of</a>
 		</answers>
 
 		<questions>
@@ -207,4 +212,65 @@
 			<q id="1">I was unable to go to the party ... a previous engagement.</q>
 		</questions>
 	</quiz>
+	
+	<quiz>
+		<answers>
+			<a> int and out, making brief visits </a>
+			<a> on and off, irregularly </a>
+			<a> down and out, broken down </a>
+			<a> back and forth, backwards and forwards </a>
+			<a> against and against, repeatedly</a>
+			<a> inside out, with inner side facing out, thoroughly </a>
+			<a> on and on, continually </a>
+			<a> ins and outs, details </a>
+			<a> betwixt and between, half and half, undecided </a>
+			<a> by and by, later on, after a while </a>
+			<a> by the by, by the way </a>
+		</answers>
+
+		<questions>
+			<q id="4">I have warned you ... about driving around that corner.</q>
+			<q id="3">The heavy trunk swung ... as it was hoisted by the crane.</q>
+			<q id="8">He was ... adopting his friend's strange suggestion.</q>
+			<q id="9">..., he came to me and apologized.</q>
+			<q id="10">..., how is your new baby?</q>
+			<q id="2">The old man was ... after the disacter.</q>
+			<q id="0">She always ... and never stays long.</q>
+			<q id="7">You should rely on him; he knew all the ... of the job.</q>
+			<q id="5">You are wearing the shirt ...</q>
+			<q id="1">She's learning English here, but she attends the course ...</q>
+			<q id="6">The old man talked ... until everone got bored.</q>
+		</questions>
+	</quiz>
+
+	
+
+	<quiz>
+		<answers>
+			<a> upside down </a>
+			<a> up and down, in every direction </a>
+			<a> out and out, completely </a>
+			<a> to and fro </a>
+			<a> through and through, completely </a>
+			<a> ups and downs, good times and bad times </a>
+			<a> all over again, again from beginning </a>
+			<a> out and about, resuming a normal life </a>
+			<a> up and about, fully recovered </a>
+			<a> out and away, by far away </a>
+		</answers>
+
+		<questions>
+			<q id="7">He had to take shelter in the alley, but he is now ...</q>
+			<q id="9">The boy was ... the most intelligent in his class.</q>
+			<q id="2">He is an ... rogue.</q>
+			<q id="6">I tore up the letter and wrote it ...</q>
+			<q id="4">The building was burnt down ...</q>
+			<q id="3">The small ferry traveled ... all day long.</q>
+			<q id="8">After his lingering illness, he is ... now.</q>
+			<q id="1">She was searching ... for her missing cat.</q>
+			<q id="5">He was struggling bravely through ... of life.</q>
+			<q id="0">You're handing the picture ...</q>
+		</questions>
+	</quiz>
+	
 </bank>	
