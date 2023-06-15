@@ -155,14 +155,6 @@
 		</questions>
 	</quiz>
 	
-	
-	
-	
-	
-	
-	
-	
-	
 	<quiz>
 		<answers>
 			<a> as against </a>
@@ -182,6 +174,37 @@
 			<q id="6">The new house stands ... all the other houses in street because of its size and style.</q>
 			<q id="0">... all members of his family, he is loved by all of his neighbors.</q>
 			<q id="2">... classical music and pop, I much prefer the former.</q>
+		</questions>
+	</quiz>
+	
+	
+	<quiz>
+		<answers>
+			<a> what with </a>
+			<a> due to </a>
+			<a> prior to, previous to </a>
+			<a> independently of </a>
+			<a> as for </a>
+			<a> except for </a>
+			<a> outside of </a>
+			<a> relating to </a>
+			<a> regardless of </a>
+			<a> in between </a>
+			<a> instead of/a>
+		</answers>
+
+		<questions>
+			<q id="5">... him, none of us had been here before.</q>
+			<q id="9">He works overseas most of the time but ... jobs he sometimes comes back to his native land.</q>
+			<q id="3">He made this decision ... the other members.</q>
+			<q id="10">I wish I were going to the party ... to the dentist.</q>
+			<q id="2">... 1990, he had been teaching in Vietnam.</q>
+			<q id="8">All men, ... race, color, or creed are entitled eauql rights and oppotunities.</q>
+			<q id="7">He told us several stories ... his experiences during WWII.</q>
+			<q id="6">... his relatives, he scarcely gets in touch with anybody.</q>
+			<q id="9">... the children crying, the dog barking, the doorbell and the telephone ringing at the same time, I felt that I would go out of my mind!</q>
+			<q id="4">I think you'll pass the exam. ... Mary, I'm not sure.</q>
+			<q id="1">I was unable to go to the party ... a previous engagement.</q>
 		</questions>
 	</quiz>
 </bank>	
