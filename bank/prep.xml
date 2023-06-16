@@ -219,7 +219,7 @@
 			<a> on and off, irregularly </a>
 			<a> down and out, broken down </a>
 			<a> back and forth, backwards and forwards </a>
-			<a> against and against, repeatedly</a>
+			<a> againt and againt, repeatedly</a>
 			<a> inside out, with inner side facing out, thoroughly </a>
 			<a> on and on, continually </a>
 			<a> ins and outs, details </a>
@@ -242,8 +242,6 @@
 			<q id="6">The old man talked ... until everone got bored.</q>
 		</questions>
 	</quiz>
-
-	
 
 	<quiz>
 		<answers>
@@ -272,5 +270,49 @@
 			<q id="0">You're handing the picture ...</q>
 		</questions>
 	</quiz>
+
 	
+	<quiz>
+		<answers>
+			<a> at any rate </a>
+			<a> at heart </a>
+			<a> at ease </a>
+			<a> at sight </a>
+			<a> at first sight </a>
+			<a> at random </a>
+			<a> at large </a>
+		</answers>
+
+		<questions>
+			<q id="5">Those  who fire ... in this area will be put in jail.</q>
+			<q id="1">Bob is a kind man ... but his loose tongue sometimes makes people dislike him.</q>
+			<q id="3">Being a career pianist, she can play this piece ... in the wedding party.</q>
+			<q id="0">Don't be so strict over him; ... he is your son.</q>
+			<q id="4"> ... she appears to be Japanese, but she's Vietnamese by birth.</q>
+			<q id="2">Ginny is so timid; she never feels ... in company.</q>
+			<q id="6">The criminal is still ... now</q>
+		</questions>
+	</quiz>
+
+	<quiz>
+		<answers>
+			<a> at full length </a>
+			<a> at all costs </a>
+			<a> at least </a>
+			<a> at full speed </a>
+			<a> at large </a>
+			<a> at most </a>
+			<a> at will </a>
+		</answers>
+
+		<questions>
+			<q id="3">Driving ... is prohibited in this neighborhood.</q>
+			<q id="0">After hours' working hard, he lies ... on the grass.</q>
+			<q id="4">Let's try to reach a resolution by discussing ...</q>
+			<q id="1">They made efforts to win the battle ...</q>
+			<q id="2">Unless you offer him cooperation, you should ... give him advice.</q>
+			<q id="5">I can ... help you by writing a letter of introduction.</q>
+			<q id="6">You're never obliged. You can do anything ...</q>
+		</questions>
+	</quiz>
 </bank>	
