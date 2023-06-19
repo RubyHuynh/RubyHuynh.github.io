@@ -315,4 +315,60 @@
 			<q id="6">You're never obliged. You can do anything ...</q>
 		</questions>
 	</quiz>
+
+	
+
+	<quiz>
+		<answers>
+			<a> by name, individually, only by hearsay </a>
+			<a> by mistakes, in error </a>
+			<a> by heart, from memory </a>
+			<a> by accident, by chance </a>
+			<a> by far, to a great degree </a>
+			<a> by all means, without any dout </a>
+			<a> by the way, inccidently </a>
+			<a> by surprise </a>
+		</answers>
+
+		<questions>
+			<q id="1">Your coat is so much like mine that I put yours on ...</q>
+			<q id="4">Picasso is ... the greatest artist.</q>
+			<q id="3">I saw that movie just ... but I enjoyed it so much.</q>
+			<q id="2">I can regconize all my students but I still don't know them all ...</q>
+			<q id="0">It's impossible that the lady hates me; I know her only ...</q>
+			<q id="5">When I asked George whether he would like to go fishing, he said, "Yes, let's go ..."</q>
+			<q id="6">He usually boasts that ladies are talked about as long-haired and shord-brained; ... how is your wife now.</q>
+			<q id="7">Their visit certainly took us ... last Sunday.</q>
+		</questions>
+	</quiz>
+	
+	
+	
+	
+	
+	
+
+	<quiz>
+		<answers>
+			<a> for life </a>
+			<a> for good, always, permanently </a>
+			<a> for long </a>
+			<a> for the most part </a>
+			<a> for instance, for example </a>
+			<a> for nothing </a>
+			<a> for certain, for sure </a>
+			<a> for fun </a>
+		</answers>
+
+		<questions>
+			<q id="6">I don't know ... how far I can help you.</q>
+			<q id="3">Traditionally, oriental physicians offered treatments ...</q>
+			<q id="4">Nicknames may be given because of some physical characteristic, ... a man with red hair i called Red.</q>
+			<q id="0">The criminal was sentenced to prison ...</q>
+			<q id="1">Do you intend to stop out of the club ... ?</q>
+			<q id="7">I don't think you're serious in your tale. Have you told it ...?</q>
+			<q id="2">He's always in and out and never stays anywhere ...</q>
+			<q id="3">This author has written only one comedy. ... his work is serious.</q>
+		</questions>
+	</quiz>
 </bank>	
