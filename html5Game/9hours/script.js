@@ -50,7 +50,7 @@ function animate() {
 	ctx.clearRect(0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
 	let position = Math.floor(gameFrame/staggerFrame) % data[curState].location.length;
 	frameX = spriteWidth * position;
-	frameX = data[curState].location[position].y;
+	frameY = data[curState].location[position].y;
 
 	ctx.drawImage(img1, frameX, frameY, spriteWidth, spriteHeight
 					  , 0, 0, CANVAS_WIDTH, CANVAS_HEIGHT);
